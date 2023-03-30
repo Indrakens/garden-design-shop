@@ -1,0 +1,7 @@
+#header-image {
+    background: url('../img/headerpic.jpg') no-repeat center center; 
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
