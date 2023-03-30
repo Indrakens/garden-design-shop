@@ -1,7 +1,31 @@
 #header-image {
-    background: url('../img/headerpic.jpg') no-repeat center center; 
+    background: url('../img/headerpic.jpg') no-repeat center; 
     height: 400px;
     width: 100%;
     overflow: hidden;
     position: relative;
+}
+
+#left-logo {
+    padding-top: 50px;
+    width: 55%;
+    float: left;
+}
+/* logo image */
+#circle-container {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: auto;
+    float: left;
+}
+
+#circle-logo-img {
+    background: url('../img/logo1.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
