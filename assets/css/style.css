@@ -1,2 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Josefin+Sans:wght@400;700&display=swap');
 
+body {
+    font-family: Josefin Sans Regular, sans-serif;
+    font-weight: 400;
+    color: #6e7d80;
+}
