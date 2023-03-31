@@ -6,6 +6,11 @@ body {
     color: #6e7d80;
 }
 
+#header-img {
+    background: url('../img/headerpic.jpg') no-repeat center center;
+    height: 400px;
+    width: 100%;
+}
 /* headings */
 h1 {
     font-family: 'Roboto Condenset', sans-serif;
