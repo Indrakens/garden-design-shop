@@ -8,12 +8,24 @@ body {
 
 #header-img {
     background: url('../img/headerpic.jpg') no-repeat center center;
-    height: 400px;
+    height: 430px;
     width: 100%;
 }
+
 /* headings */
+#right-header {
+    float: right;
+    width: 40%; 
+    
+} 
+
 h1 {
-    font-family: 'Roboto Condenset', sans-serif;
+    font-family: 'Roboto Condenset Bold', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
+    font-size: 90px;
+    color: #fff;
+    border: 1px solid #fff;
+    margin: 30px; 
+    padding: 30px;
 }
