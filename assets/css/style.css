@@ -1,9 +1,2 @@
-#header-image {
-    background: url('../img/headerpic.jpg') no-repeat center; 
-    height: 450px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Josefin+Sans:wght@400;700&display=swap');
 
-/* logo image */
