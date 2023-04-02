@@ -51,3 +51,10 @@ h1 {
     border-style: double;
 }
 
+/* navigation menu */
+#menu li{
+    display: inline;
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+}
