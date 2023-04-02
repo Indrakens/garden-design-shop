@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Raleway:wght@400;700&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -52,9 +58,9 @@ h1 {
 }
 
 /* navigation menu */
-#menu li{
-    display: inline;
-    float: right;
-    list-style-type: none;
-    margin-right: 40px;
-}
+
+
+
+
+
+
