@@ -98,10 +98,10 @@ h1 {
     color: #6e7d80;
 }
 
-/* section id text */
+/* section id=text */
 
 #text {
-    height: 600px;
+    height: 800px;
 }
 
 #left-side {
@@ -129,6 +129,15 @@ p {
     font-size: 100%;
     margin-left: 55px;
     margin-right: 55px;
+}
+
+#third-header {
+    font-family: Alkatra, sans-serif;
+    font-size: 185%;
+    margin-left: 160px;
+    margin-right: 160px;
+    letter-spacing: 2px;
+    color: #90A617; 
 }
 
 #right-side {
