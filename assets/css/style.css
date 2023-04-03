@@ -98,6 +98,25 @@ h1 {
     color: #6e7d80;
 }
 
+/* section id text */
+
+#text {
+    height: 600px;
+}
+
+#left-side {
+    padding-top: 40px;
+    width: 40%;
+    float: left;
+    background-color: aqua;
+}
+
+#right-side {
+    padding-top: 40px;
+    width: 50%;
+    float: right;
+    background-color: #90A617;
+}
 
 
 
