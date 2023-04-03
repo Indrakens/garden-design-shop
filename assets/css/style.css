@@ -83,6 +83,7 @@ h1 {
     float: right;
     list-style-type: none;
     margin-right: 40px;
+    text-transform: uppercase;
 }
 
 #link-menu a {
