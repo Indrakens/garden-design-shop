@@ -74,6 +74,12 @@ h1 {
     letter-spacing: 3.5px;
 }
 
+#link-menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+}
+
 
 
 
