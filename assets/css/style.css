@@ -133,7 +133,7 @@ p {
 
 #third-header {
     font-family: Alkatra, sans-serif;
-    font-size: 185%;
+    font-size: 165%;
     margin-left: 160px;
     margin-right: 160px;
     letter-spacing: 2px;
@@ -146,7 +146,14 @@ p {
 }
 
 
-#right-side {
+#right-side1 {
+    padding-top: 40px;
+    width: 50%;
+    float: right;
+    background-color: #90A617;
+}
+
+#right-side2 {
     padding-top: 40px;
     width: 50%;
     float: right;
