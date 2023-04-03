@@ -21,7 +21,7 @@ body {
 
 #logo-img {
     float: left;
-    width: 40%;
+    width: 50%;
 }
 
 #circle-container {
@@ -65,7 +65,7 @@ h1 {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
-    color: #6e7d80;
+    color: #90A617;
     margin-left: 20px;
 } 
 
@@ -75,15 +75,22 @@ h1 {
     letter-spacing: 3.5px;
 }
 
+#link-menu, #logo2 {
+    line-height: 55px;
+}
+
 #link-menu li {
     float: right;
     list-style-type: none;
     margin-right: 40px;
-    padding: 20px;
 }
 
 #link-menu a {
     text-decoration: none;
+    color: #90A617;
+}
+
+#link-menu a:hover {
     color: #6e7d80;
 }
 
