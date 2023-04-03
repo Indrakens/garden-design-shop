@@ -64,12 +64,14 @@ h1 {
     font-size: 280%;
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 4.5px;
     color: #6e7d80;
 } 
 
 /* navigation menu */
-
+#link-menu {
+    
+}
 
 
 
