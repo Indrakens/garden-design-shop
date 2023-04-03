@@ -101,7 +101,7 @@ h1 {
 /* section id=text */
 
 #text {
-    height: 800px;
+    height: 600px;
 }
 
 #left-side {
@@ -139,6 +139,12 @@ p {
     letter-spacing: 2px;
     color: #90A617; 
 }
+
+#paragraph2 {
+    font-size: 100%;
+    margin-left: 200px;  
+}
+
 
 #right-side {
     padding-top: 40px;
