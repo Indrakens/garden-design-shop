@@ -106,9 +106,17 @@ h1 {
 
 #left-side {
     padding-top: 40px;
-    width: 40%;
+    width: 50%;
     float: left;
     background-color: aqua;
+}
+
+h3 {
+    font-family: Alkatra, sans-serif;
+    font-size: 180%;
+    margin-left: 40px;
+    letter-spacing: 2px;
+    color: #90A617;
 }
 
 #right-side {
