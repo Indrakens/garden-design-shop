@@ -113,10 +113,22 @@ h1 {
 
 h3 {
     font-family: Alkatra, sans-serif;
-    font-size: 180%;
+    font-size: 185%;
     margin-left: 40px;
+    margin-right: 40px;
     letter-spacing: 2px;
     color: #90A617;
+}
+
+#paragraph {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+p {
+    font-size: 100%;
+    margin-left: 55px;
+    margin-right: 55px;
 }
 
 #right-side {
