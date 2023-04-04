@@ -71,12 +71,12 @@ h1 {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
-    color: #90A617;
+    color: #6e7d80;
     margin-left: 40px;
 } 
 
 #logo2:hover {
-    color: #6e7d80;
+    color: #90A617;
 }
 
 #link-menu {
@@ -97,11 +97,11 @@ h1 {
 
 #link-menu a {
     text-decoration: none;
-    color: #90A617;
+    color: #6e7d80;
 }
 
 #link-menu a:hover {
-    color: #6e7d80;
+    color: #90A617;
 }
 
 /* section id=text */
@@ -154,7 +154,7 @@ p {
     width: 40%;
     float: right;
     margin-right: 40px;
-    border-bottom: 2px solid #90A617;
+    border-bottom: 2px solid #6e7d80;
 }
 
 /* footer */
@@ -170,7 +170,7 @@ footer {
 }
 
 .social-media i {
-    font-size: 150%;
+    font-size: 130%;
     margin: 1%;
     padding: 5%;
 }
