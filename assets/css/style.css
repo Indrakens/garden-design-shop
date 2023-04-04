@@ -27,7 +27,7 @@ body {
 #circle-container {
     width: 300px;
     height: 300px;
-    padding: 35px;
+    padding: 40px;
     border-color: #fff;
     border-width: 1.5px;
     border-radius: 50%;
@@ -61,7 +61,7 @@ h1 {
 /* navigation menu */
 #logo2 {
     float: left;
-    font-size: 240%;
+    font-size: 220%;
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
@@ -139,16 +139,13 @@ p {
     color: #90A617; 
 }
 
-#paragraph2 {
-    font-size: 100%;
-    margin-left: 200px; 
-}
 
 
 #right-image {
     width: 40%;
     float: right;
     margin-right: 40px;
+    border-bottom: 2px solid #90A617;
 }
 
 
