@@ -152,12 +152,17 @@ p {
     margin-right: 160px;
 }
 
+#p3 {
+    float: right;
+    margin: 50px;
+}
 #right-image {
     width: 40%;
     float: right;
     margin-right: 40px;
     border-bottom: 2px solid #6e7d80;
 }
+
 
 /* footer */
 footer {
