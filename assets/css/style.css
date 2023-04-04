@@ -13,10 +13,16 @@ body {
 }
 
 /* headings and logo images*/
+.one {
+    overflow: hidden;
+    position: relative;
+}
+
 #main-img {
     background: url('../img/98313C97-284D-48BB-B1ED-2ADA34B88CEA.jpg') no-repeat center center;
     height: 440px;
     width: 100%;
+    
 }
 
 #logo-img {
@@ -139,7 +145,10 @@ p {
     color: #90A617; 
 }
 
-
+#p2 {
+    margin-left: 160px;
+    margin-right: 160px;
+}
 
 #right-image {
     width: 40%;
@@ -150,5 +159,29 @@ p {
 
 
 
+@media screen and (max-width: 1200px) {
+    .one {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
 
+
+    @media screen and (max-width: 950px) {
+        #link-menu {
+            clear: left;
+            float: left;
+            margin-left: 30px;
+            margin-bottom: 20px;
+            line-height: 25px;
+        }
+    }
+
+
+        @media screen and (max-width: 800px) {
+            #photos {
+                column-count: 2;
+            }
+        }
 
