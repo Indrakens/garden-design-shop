@@ -157,6 +157,24 @@ p {
     border-bottom: 2px solid #90A617;
 }
 
+/* footer */
+footer {
+    height: 100px;
+}
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+}
+
 
 
 @media screen and (max-width: 1200px) {
