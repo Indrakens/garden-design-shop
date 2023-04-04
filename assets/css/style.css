@@ -103,7 +103,9 @@ h1 {
 #link-menu a:hover {
     color: #90A617;
 }
-
+#link-menu a.active {
+    color: #90A617;
+}
 /* section id=text */
 
 #text {
