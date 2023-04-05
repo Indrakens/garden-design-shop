@@ -177,7 +177,7 @@ p1 {
 
 
 #about-steps {
-    margin-top: 130px;
+    margin-top: 120px;
     margin-left: 40px;
     width: 40%;
 }
@@ -195,6 +195,7 @@ p2 {
 #about-image {
     width: 35%;
     float: right;
+    margin-right: 40px;
     
 }
 
