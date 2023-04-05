@@ -160,6 +160,19 @@ p {
     border-bottom: 2px solid #6e7d80;
 }
 
+/* about page */
+#about-paragraph {
+    padding-top: 20px;
+    border-bottom: 2px solid #90A617;
+}
+
+p1 {
+   padding-top: 30px;
+   float: left;
+   margin-left: 40px;
+   margin-right: 40px;
+   text-align: center;
+}
 
 /* footer */
 footer {
