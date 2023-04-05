@@ -175,10 +175,11 @@ p1 {
    text-align: center;
 }
 
+
 #about-steps {
-    margin-top: 110px;
+    margin-top: 130px;
     margin-left: 40px;
-    width: 40%;  
+    width: 40%;
 }
 
 h4{
@@ -191,6 +192,11 @@ p2 {
    font-size: 75%;
 }
 
+#about-image {
+    width: 35%;
+    float: right;
+    
+}
 
 /* footer */
 footer {
