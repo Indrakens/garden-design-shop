@@ -200,20 +200,20 @@ p2 {
 
 /* contact us*/
 .form-section {
-    clear: left;
-    background: url('../img/pic1.jpeg');
+    clear: both;
+    background: url('../img/4C148E6B-52C6-443D-93BE-B09DCD6B24B7.jpg');
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 600px;
 }
 
 .signup-form {
-    margin: 80px 10% 0 0;
+    margin: 100px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
+    max-width: 500px;
     position: absolute;
-    left: 30%;
+    left: 10%;
     padding: 10px;
 }
 
