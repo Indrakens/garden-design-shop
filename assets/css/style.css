@@ -13,17 +13,24 @@ body {
 }
 
 /* headings and logo images*/
-.one {
-    overflow: hidden;
-    position: relative;
-}
+
 
 #main-img {
     background: url('../img/98313C97-284D-48BB-B1ED-2ADA34B88CEA.jpg') no-repeat center center;
     height: 390px;
-    width: 100%;
-    
+    width: 100%;   
 }
+
+@keyframes main-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
 
 #logo-img {
     float: left;
@@ -192,10 +199,10 @@ p2 {
 }
 
 #about-image {
-    width: 40%;
-    float: right;
-    margin-right: auto;
-    
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    float: right;    
 }
 
 h2 {
@@ -279,11 +286,11 @@ footer {
 
 
 @media screen and (max-width: 1200px) {
-    .one {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
+  .two {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+  }
 }
 
 
