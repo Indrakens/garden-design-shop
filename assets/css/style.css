@@ -21,6 +21,12 @@ body {
     width: 100%;   
 }
 
+#main-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
 @keyframes main-zoom {
     from {
         transform: scale(1);
@@ -199,10 +205,10 @@ p2 {
 }
 
 #about-image {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    float: right;    
+    width: 40%;
+    float: right;
+    margin-right: auto;
+    
 }
 
 h2 {
