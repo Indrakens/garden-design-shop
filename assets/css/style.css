@@ -53,20 +53,17 @@ body {
 
 #logo-text {
     color: #fffebd;
-}
+    float: right;
+    padding-top: 150px;
+    }
 
 #logo-text {
-    font-size: 250%;
+    font-size: 280%;
     text-align: center;
     font-family: Ralway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    width: 500px;
-    height: 100px;
-    bottom: 150px;
-    right: 80px;
-
-    position: absolute;    
+    width: 650px;  
 }
 
 /* navigation menu */
@@ -111,7 +108,7 @@ body {
 #link-menu a.active {
     color: #90A617;
 }
-/* section id=text */
+/* section class=two */
 
 #text {
     height: 600px;
@@ -130,6 +127,7 @@ h3 {
     margin-right: 40px;
     letter-spacing: 2px;
     color: #90A617;
+    text-align: center;
 }
 
 #home-paragraph {
@@ -265,10 +263,7 @@ h2 {
 
 /* footer */
 footer {
-    height: 100px;
-}
-.social-media {
-    text-align: center;
+    height: 80px;
 }
 
 .social-media li {
@@ -276,9 +271,9 @@ footer {
 }
 
 .social-media i {
-    font-size: 130%;
+    font-size: 140%;
     margin: 1%;
-    padding: 5%;
+    padding: 3%;
 }
 
 
@@ -292,20 +287,24 @@ footer {
 }
 
 
-    @media screen and (max-width: 950px) {
-        #link-menu {
-            clear: left;
+    
+     @media screen and (max-width: 1200px) {
+        .two {
+            width: 65%;
+            height: 1200px;
+            margin: 0 auto;
+        }
+
+        #logo-text {
+            padding: 4px ;
+            margin: 0;
+        }
+
+        #logo-img, #text, #right-image {
+            width: 100%;
             float: left;
-            margin-left: 30px;
-            margin-bottom: 20px;
-            line-height: 25px;
+            padding: 0;
         }
     }
 
-
-        @media screen and (max-width: 800px) {
-            #photos {
-                column-count: 2;
-            }
-        }
-
+    /* media gueries for 950px wide screen*/
