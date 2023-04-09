@@ -276,35 +276,3 @@ footer {
     padding: 3%;
 }
 
-
-
-@media screen and (max-width: 1200px) {
-  .two {
-    width: 65%;
-    height: 1200px;
-    margin: 0 auto;
-  }
-}
-
-
-    
-     @media screen and (max-width: 1200px) {
-        .two {
-            width: 65%;
-            height: 1200px;
-            margin: 0 auto;
-        }
-
-        #logo-text {
-            padding: 4px ;
-            margin: 0;
-        }
-
-        #logo-img, #text, #right-image {
-            width: 100%;
-            float: left;
-            padding: 0;
-        }
-    }
-
-    /* media gueries for 950px wide screen*/
