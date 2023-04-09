@@ -67,14 +67,10 @@ body {
     width: 100%; 
 }
 
-
-
-
-
-
 #logo-img {
     float: left;
     width: 50%;
+    margin-left: auto;
 }
 
 #circle-container {
@@ -103,7 +99,8 @@ body {
     font-family: Ralway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    width: 650px;  
+    width: 650px; 
+    margin-left: auto; 
 }
 
 
