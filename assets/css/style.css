@@ -209,9 +209,6 @@ h2 {
 /* contact us*/
 .form-section {
     clear: left;
-    background: url('../img/98313C97-284D-48BB-B1ED-2ADA34B88CEA.jpg');
-    background-size: cover;
-    background-position: center;
     height: 600px;
 }
 
@@ -221,7 +218,7 @@ h2 {
     background-color: rgba(110, 125, 128, 0.7);
     max-width: 550px;
     position: absolute;
-    left: 28%;
+    left: 5%;
     padding: 10px;
 }
 
