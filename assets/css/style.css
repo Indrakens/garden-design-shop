@@ -184,14 +184,15 @@ h2 {
 
 .form-section {
     clear: left;
-    height: 500px;
+    height: 600px;
+    background-color: #90A617;
 }
 
 .signup-form {
-    margin: 90px 5% 0 0;
+    margin: 50px 5% 0 0;
     color: #fffebd;
     background-color: rgba(110, 125, 128, 0.7);
-    max-width: 550px;
+    max-width: 600px;
     position: absolute;
     left: 5%;
     padding: 10px;
@@ -211,7 +212,10 @@ h2 {
     border: 2px solid #fffebd;
     border-radius: 2px;
     }
-
+    
+    #atext {
+       height: 100px; 
+    }
     .text-input:hover {
         border-color: #90A617;
     }
@@ -304,6 +308,4 @@ h2 {
         width: 70%;
         float: left; 
     }
-
-
 }
