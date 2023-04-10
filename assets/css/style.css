@@ -15,7 +15,7 @@ body {
 
 #nav-logo {
     float: left;
-    font-size: 220%;
+    font-size: 220%; 
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
@@ -33,7 +33,7 @@ body {
     letter-spacing: 3.5px;
 }
 
-#link-menu, #logo2 {
+#link-menu, #nav-logo {
     line-height: 55px;
 }
 
@@ -56,17 +56,11 @@ body {
     color: #90A617;
 }
 
-#container {
-    border: 2px solid #6e7d80;
-    margin-top: 30px;
-}
-
-/* headings and logo images*/
+/* home page*/
 #main-outer {
     height: 400px;
     width: 100%;
     overflow: hidden;
-    
     background: url('../img/98313C97-284D-48BB-B1ED-2ADA34B88CEA.jpg') no-repeat center center;
     height: 390px;
     width: 100%; 
@@ -108,9 +102,6 @@ body {
     margin-left: auto; 
 }
 
-
-/* section class=two */
-
 #text {
     height: 600px;
 }
@@ -131,24 +122,10 @@ h3 {
     text-align: center;
 }
 
-#paragraph {
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
 p {
     font-size: 100%;
     margin-left: 55px;
     margin-right: 55px;
-}
-
-#third-header {
-    font-family: Alkatra, sans-serif;
-    font-size: 165%;
-    margin-left: 160px;
-    margin-right: 160px;
-    letter-spacing: 2px;
-    color: #90A617; 
 }
 
 #p2 {
@@ -194,18 +171,20 @@ p2 {
     width: 40%;
     float: right;
     margin-right: auto;
-    
+
 }
 
+
+
+/* contact us*/
 h2 {
     font-family: Raleway, sans-serif;
     font-size: 180%;
 }
 
-/* contact us*/
 .form-section {
     clear: left;
-    height: 600px;
+    height: 500px;
 }
 
 .signup-form {
@@ -255,7 +234,7 @@ h2 {
 
 
 /* footer */
-footer {
+.social-media {
     height: 80px;
 }
 
