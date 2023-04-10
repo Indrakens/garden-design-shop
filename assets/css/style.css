@@ -248,3 +248,23 @@ h2 {
     padding: 3%;
 }
 
+@media screen and (max-width: 1200px) {
+     #text {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+        float: left;
+    }
+
+   #logo-text, #logo-img {
+        float: left;
+        padding: 0;
+        
+    }
+    
+    h1 {
+        margin: 0;
+        float: left;
+    }
+    
+}
