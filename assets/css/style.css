@@ -255,22 +255,30 @@ h2 {
        margin: 0 auto;
     }
     
-    
-
     #logo-img, #logo-text {
         width: 100%;
         float: left;
-        height: 20px;
+        height: 15px;
         padding: 0;
-        font-size: 130%;
+        font-size: 170%;
         margin: 0 auto;
     }
-    
+
+   h1 {
+    color: #6e7d80;
+   }
+   
     #header {
         width: 100%;
         float: left;
-        padding: 0;
         font-size: 90%;
         margin: 0 auto;
     } 
+
+    #right-image {
+        width: 80%;
+        float: left;
+       
+        margin-left: 20px;
+    }
 }
