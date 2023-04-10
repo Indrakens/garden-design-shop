@@ -255,7 +255,7 @@ h2 {
 @media screen and (max-width: 1200px) {
     #container {
        width: 65%;
-       height: 1100px; 
+       height: 1000px; 
        margin: 0 auto;
     }
     
@@ -380,6 +380,79 @@ h2 {
     #about-image {
         width: 50%;
         float: left; 
+    }
+
+    .email-form {
+        margin: 10px 5% 0 0;
+        color: #fffebd;
+        background-color: rgba(110, 125, 128, 0.7);
+        max-width: 600px;
+        position: absolute;
+        left: 5%;
+        padding: 10px;
+    }
+    
+}
+
+/* For screens size from 700px */
+@media screen and (max-width: 700px) {
+    #container {
+        width: 70%;
+        height: 900px; 
+        margin: 0 auto;
+     }
+    
+    #link-menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        line-height: 2px;
+        font-size: 60%;
+    }
+    
+    #logo-img, #logo-text, #main-outer {
+        display: none;
+        
+    }
+
+   
+    #paragraph, #p2, h3 {
+        width: 100%;
+        float: left;
+        font-size: 80%;
+        margin: 0 auto;
+    } 
+    
+   
+    #right-image {
+        width: 100%;
+        float: left;
+        object-fit: scale-down;
+        
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    p1, h4 {
+        width: 80%;
+        float: left;
+        font-size: 60%;
+        padding-bottom: 10px;
+        margin: 0 auto;
+    }
+
+    #about-steps {
+        width: 80%;
+        float: left;
+        font-size: 60%;
+        margin: 0 auto; 
+    }
+
+    #about-image {
+        display: none;
     }
 
     .email-form {
