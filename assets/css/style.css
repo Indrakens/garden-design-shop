@@ -13,7 +13,7 @@ body {
 }
 
 
-#logo2 {
+#nav-logo {
     float: left;
     font-size: 220%;
     font-family: Raleway, sans-serif;
@@ -23,7 +23,7 @@ body {
     margin-left: 40px;
 }
 
-#logo2:hover {
+#nav-logo:hover {
     color: #90A617;
 }
 
