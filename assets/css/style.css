@@ -236,15 +236,6 @@ h2 {
         color: #90A617;
     }
 
-    #e-img {
-        float: right;
-        margin-right: 180px;
-        margin-top: 90px;
-    }
-
-   
-
-
 /* footer */
 .social-media {
     height: 80px;
@@ -276,9 +267,7 @@ h2 {
         margin: 0 auto;
     }
 
-   h1 {
-    color: #6e7d80;
-   }
+  
    
     #header {
         width: 100%;
@@ -316,4 +305,7 @@ h2 {
         width: 70%;
         float: left; 
     }
+   
+
+    
 }
