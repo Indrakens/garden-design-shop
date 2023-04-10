@@ -188,7 +188,7 @@ h2 {
     background-color: #90A617;
 }
 
-.signup-form {
+.email-form {
     margin: 50px 5% 0 0;
     color: #fffebd;
     background-color: rgba(110, 125, 128, 0.7);
@@ -198,7 +198,7 @@ h2 {
     padding: 10px;
 }
 
-.signup-form h2 {
+.email-form h2 {
     color: #fffebd;
     margin-bottom: 15px;
 }
