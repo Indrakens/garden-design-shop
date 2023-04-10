@@ -251,6 +251,7 @@ h2 {
     padding: 3%;
 }
 
+/* For screens size from 1200px */
 @media screen and (max-width: 1200px) {
     #container {
        width: 65%;
@@ -307,5 +308,71 @@ h2 {
     }
    
 
+    
+}
+
+/* For screens size from 950px */
+@media screen and (max-width: 950px) {
+    #container {
+        width: 90%;
+        height: 1000px; 
+        margin: 0 auto;
+     }
+    
+    #link-menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        line-height: 25px;
+    }
+    
+    #logo-img, #logo-text {
+        width: 100%;
+        float: left;
+        height: 15px;
+        padding: 0;
+        font-size: 150%;
+        margin: 0 auto;
+    }
+
+  
+   
+    #header {
+        width: 100%;
+        float: left;
+        font-size: 80%;
+        margin: 0 auto;
+    } 
+
+    #right-image {
+        width: 90%;
+        float: left;
+        margin-left: 40px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    p1 {
+        width: 100%;
+        float: left;
+        font-size: 80%;
+        padding-bottom: 20px;
+        margin: 0 auto;
+    }
+
+    #about-steps {
+        width: 40%;
+        float: left;
+        font-size: 80%;
+        margin: 0 auto; 
+    }
+
+    #about-image {
+        width: 50%;
+        float: left; 
+    }
     
 }
