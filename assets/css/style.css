@@ -147,6 +147,7 @@ p1 {
    margin-right: 300px;
    margin-bottom: 30px;
    text-align: center;
+   font-size: 100%;
 }
 
 
@@ -250,7 +251,7 @@ h2 {
 @media screen and (max-width: 1200px) {
     #container {
        width: 65%;
-       height: 1000px; 
+       height: 1100px; 
        margin: 0 auto;
     }
     
@@ -287,8 +288,22 @@ h2 {
     p1 {
         width: 100%;
         float: left;
-        font-size: 100%;
+        font-size: 90%;
         padding-bottom: 20px;
         margin: 0 auto;
     }
+
+    #about-steps {
+        width: 70%;
+        float: left;
+        font-size: 90%;
+        margin: 0 auto; 
+    }
+
+    #about-image {
+        width: 70%;
+        float: left; 
+    }
+
+
 }
