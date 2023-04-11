@@ -278,10 +278,10 @@ h2 {
     } 
 
     #right-image {
-        width: 90%;
-        float: left;
-        margin-left: 40px;
+        width: 80%;
+        float: left;   
     }
+
 
     footer {
         text-align: center;
@@ -353,9 +353,8 @@ h2 {
     } 
 
     #right-image {
-        width: 90%;
-        float: left;
-        margin-left: 40px;
+        width: 60%;
+        float: left;   
     }
 
     footer {
@@ -425,18 +424,17 @@ h2 {
     } 
     
    
-    #right-image {
-        width: 100%;
-        float: left;
-        object-fit: scale-down;
-        
+    .responsive {
+        width: 150%;
+        height: 120%;
+        float: left;   
     }
 
     footer {
         text-align: center;
     }
 
-    p1, h4 {
+    p1 {
         width: 80%;
         float: left;
         font-size: 60%;
@@ -447,12 +445,8 @@ h2 {
     #about-steps {
         width: 80%;
         float: left;
-        font-size: 60%;
+        font-size: 50%;
         margin: 0 auto; 
-    }
-
-    #about-image {
-        display: none;
     }
 
     .email-form {
