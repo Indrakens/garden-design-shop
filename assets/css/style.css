@@ -157,8 +157,8 @@ p1 {
 #about-steps {
     float: right;
     margin-top: 15px;
-    margin-right: 120px;
-    width: 50%;
+    margin-right: 180px;
+    width: 45%;
 }
 
 h4{
@@ -187,16 +187,16 @@ h2 {
     font-size: 180%;
 }
 
-.form-section {
+.email-section {
     clear: left;
-    height: 600px;
-   background: url('../img/27843A38-457C-4F1B-89F4-617AA5F0516C.png') no-repeat center;
+    height: 550px;
+    background: url('../img/27843A38-457C-4F1B-89F4-617AA5F0516C.png') no-repeat center;
 }
 
 .email-form {
-    margin: 50px 5% 0 0;
+    margin: 30px 5% 0 0;
     color: #fffebd;
-    background-color: rgba(110, 125, 128, 0.7);
+    background-color: rgba(0, 0, 0, 0.6);
     max-width: 600px;
     position: absolute;
     left: 25%;
@@ -205,7 +205,7 @@ h2 {
 
 .email-form h2 {
     color: #fffebd;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .text-input {
