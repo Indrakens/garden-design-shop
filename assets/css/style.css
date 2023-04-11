@@ -9,7 +9,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    color: #6e7d80;
+    color: #000;
 }
 
 
@@ -19,12 +19,12 @@ body {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
-    color: #6e7d80;
+    color: #000;
     margin-left: 40px;
 }
 
 #nav-logo:hover {
-    color: #fdbe00;
+    color: #922f04;
 }
 
 /* navigation menu */
@@ -42,18 +42,22 @@ body {
     list-style-type: none;
     margin-right: 40px;
     text-transform: uppercase;
+    
 }
 
 #link-menu a {
     text-decoration: none;
-    color: #6e7d80;
+    color: #000;
+   
 }
 
 #link-menu a:hover {
-    color: #fdbe00;
+    color: #922f04;
+    
 }
 #link-menu a.active {
-    color: #fdbe00;
+    color: #922f04;
+    text-decoration: underline;
 }
 
 /* home page*/
@@ -117,7 +121,7 @@ h3 {
     margin-left: 40px;
     margin-right: 40px;
     letter-spacing: 2px;
-    color: #fdbe00;
+    color: #922f04;
     text-align: center;
 }
 
