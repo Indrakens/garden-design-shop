@@ -58,11 +58,10 @@ body {
 
 /* home page*/
 #main-outer {
-    height: 800px;
-    width: 100%;
+    
     overflow: hidden;
-    background: url('../img/98313C97-284D-48BB-B1ED-2ADA34B88CEA.jpg') no-repeat center center;
-    height: 390px;
+    background: url('../img/27843A38-457C-4F1B-89F4-617AA5F0516C.png') no-repeat center;
+    height: 400px;
     width: 100%; 
 }
 
@@ -90,7 +89,7 @@ body {
 }
 
 #logo-text {
-    color: #fffebd;
+    color: #fff;
     float: right;
     padding-top: 125px;
     font-size: 250%;
@@ -171,6 +170,7 @@ p2 {
     width: 40%;
     float: right;
     margin-right: auto;
+    padding-top: 30px;
 
 }
 
@@ -185,7 +185,7 @@ h2 {
 .form-section {
     clear: left;
     height: 600px;
-    background-color: #90A617;
+   background: url('../img/27843A38-457C-4F1B-89F4-617AA5F0516C.png') no-repeat center;
 }
 
 .email-form {
