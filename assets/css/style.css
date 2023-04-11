@@ -397,7 +397,7 @@ h2 {
 @media screen and (max-width: 700px) {
     #container {
         width: 70%;
-        height: 900px; 
+        height: 800px; 
         margin: 0 auto;
      }
     
@@ -405,9 +405,16 @@ h2 {
         clear: left;
         float: left;
         margin-left: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
         line-height: 2px;
         font-size: 60%;
+    }
+
+    #nav-logo {
+        clear: left;
+        margin-left: 10px;
+        margin-bottom: 2px;
+        font-size: 150%;
     }
     
     #logo-img, #logo-text, #main-outer {
