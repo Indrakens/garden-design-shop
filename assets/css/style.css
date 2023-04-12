@@ -316,7 +316,7 @@ h2 {
     .email-form {
         margin: 25px 5% 0 0;
         color: #fffebd;
-        background-color: rgba(110, 125, 128, 0.7);
+        background-color: rgba(0, 0, 0, 0.6);
         max-width: 600px;
         position: absolute;
         left: 15%;
@@ -390,7 +390,7 @@ h2 {
     .email-form {
         margin: 10px 5% 0 0;
         color: #fffebd;
-        background-color: rgba(110, 125, 128, 0.7);
+        background-color: rgba(0, 0, 0, 0.6);
         max-width: 600px;
         position: absolute;
         left: 5%;
@@ -399,8 +399,8 @@ h2 {
     
 }
 
-/* For screens size from 700px */
-@media screen and (max-width: 700px) {
+/* For screens size from 800px */
+@media screen and (max-width: 800px) {
     #container {
         width: 70%;
         height: 800px; 
@@ -465,7 +465,7 @@ h2 {
     .email-form {
         margin: 10px 5% 0 0;
         color: #fffebd;
-        background-color: rgba(110, 125, 128, 0.7);
+        background-color: rgba(0, 0, 0, 0.6);
         max-width: 600px;
         position: absolute;
         left: 5%;
