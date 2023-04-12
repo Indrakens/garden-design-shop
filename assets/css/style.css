@@ -62,9 +62,8 @@ body {
 
 /* home page*/
 #main-outer {
-    
-    overflow: hidden;
-    background: url('../img/27843A38-457C-4F1B-89F4-617AA5F0516C.png') no-repeat center;
+     overflow: hidden;
+    background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
     height: 400px;
     width: 100%; 
 }
