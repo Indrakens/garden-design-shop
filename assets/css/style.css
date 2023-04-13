@@ -153,6 +153,7 @@ p1 {
     margin-top: 25px;
     margin-right: 180px;
     width: 40%;
+    margin-top: 50px;
 }
 
 h4{
@@ -254,7 +255,7 @@ h2 {
 /* For screens size from 1200px */
 @media screen and (max-width: 1200px) {
     #container {
-       width: 65%;
+       width: 85%;
        height: 1000px; 
        margin: 0 auto;
     }
@@ -283,9 +284,7 @@ h2 {
     }
 
 
-    footer {
-        text-align: center;
-    }
+    
     p1 {
         width: 100%;
         float: left;
@@ -295,15 +294,17 @@ h2 {
     }
 
     #about-steps {
-        width: 50%;
+        width: 40%;
+        height: 60%;
         float: left;
-        font-size: 90%;
-        margin: 0 auto; 
-    }
+        font-size: 80%;
+        margin: 0 auto;
+       }
 
     #about-image {
         width: 40%;
-       
+        height: 45%;
+        float: left;   
     }
    
     .email-form {
@@ -320,7 +321,7 @@ h2 {
 /* For screens size from 950px */
 @media screen and (max-width: 950px) {
     #container {
-        width: 90%;
+        width: 100%;
         height: 900px; 
         margin: 0 auto;
      }
@@ -351,14 +352,6 @@ h2 {
         margin: 0 auto;
     } 
 
-
-    .responsive {
-        width: 50%;
-        height: 30%;
-        float: left;  
-    }
-    
-
     p1 {
         width: 100%;
         float: left;
@@ -369,6 +362,7 @@ h2 {
 
     #about-steps {
         width: 40%;
+        height: 60%;
         float: left;
         font-size: 80%;
         margin: 0 auto;
@@ -376,9 +370,11 @@ h2 {
     }
 
     #about-image {
-        width: 40%;
-        float: left; 
+        width: 50%;
+        height: 55%;
+        float: left;   
     }
+
 
     .email-form {
         margin: 60px 10% 0 0;
@@ -397,7 +393,7 @@ h2 {
 @media screen and (max-width: 800px) {
     #container {
         width: 100%;
-        height: 600px; 
+        height: 1000px; 
         margin: 0 auto;
      }
     
@@ -448,29 +444,29 @@ h2 {
     } 
     
 
-    .responsive {
-        width: 50%;
-        height: 80%;
-        float: left;   
-    }
-
-    footer {
-        text-align: center;
-    }
-
+   
     p1 {
         width: 80%;
         float: left;
-        font-size: 60%;
-        padding-bottom: 10px;
-        margin: 0 auto;
+        font-size: 80%;
+        padding-bottom: 60px;
+        margin-left: 60px;
+        margin: 50 auto;
     }
 
     #about-steps {
-        width: 80%;
+        width: 40%;
+        height: 50%;
         float: left;
-        font-size: 55%;
+        font-size: 60%;
         margin: 0 auto; 
+    }
+
+    #about-image {
+        width: 50%;
+        height: 20%;
+        float: left; 
+        margin: 0 aut;  
     }
 
     .email-form {
