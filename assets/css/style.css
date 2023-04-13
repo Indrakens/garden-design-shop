@@ -306,7 +306,11 @@ h2 {
         float: left; 
         margin: 0 auto;  
     }
-   
+    .responsive {
+        height: 100%;
+        float: left;
+    }
+
     .email-form {
         margin: 70px 10% 0 0;
         color: #fffebd;
@@ -370,9 +374,14 @@ h2 {
 
     #about-image {
         width: 50%;
-        height: 55%;
+        height: 60%;
         float: left; 
         margin: 0 auto;  
+    }
+
+    .responsive {
+        height: 80%;
+        float: left;
     }
 
 
@@ -391,11 +400,7 @@ h2 {
 
 /* For screens size from 800px */
 @media screen and (max-width: 800px) {
-    #container {
-        width: 90%;
-        height: 1000px; 
-        margin: 0 auto;
-     }
+    
     
     #link-menu {
         clear: left;
@@ -455,21 +460,24 @@ h2 {
     }
 
     #about-steps {
-        width: 40%;
+        width: 50%;
         height: 50%;
         font-size: 60%;
+        float: left;
         margin: 0 auto; 
     }
 
     #about-image {
-        width: 55%;
+        width: 50%;
         float: left; 
-        margin: 0 aut;  
+        margin: 0 auto;  
     }
     
     .responsive {
-        height: 50%;
+        height: 60%;
+        float: left;
     }
+
     .email-form {
         margin: 60px 5% 0 0;
         color: #fffebd;
