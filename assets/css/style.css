@@ -255,7 +255,7 @@ h2 {
 /* For screens size from 1200px */
 @media screen and (max-width: 1200px) {
     #container {
-       width: 85%;
+       width: 65%;
        height: 1000px; 
        margin: 0 auto;
     }
@@ -294,17 +294,17 @@ h2 {
     }
 
     #about-steps {
-        width: 40%;
+        width: 45%;
         height: 60%;
-        float: left;
         font-size: 80%;
         margin: 0 auto;
        }
 
     #about-image {
-        width: 40%;
+        width: 55%;
         height: 45%;
-        float: left;   
+        float: left; 
+        margin: 0 auto;  
     }
    
     .email-form {
