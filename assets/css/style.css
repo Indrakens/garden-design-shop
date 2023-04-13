@@ -571,15 +571,18 @@ h2 {
     
     .social-media {
         height: 60px;
+        position: relative;
+        z-index: 1;
     }
     
     .social-media li {
         display: inline;
+        
     }
     
     .social-media i {
         font-size: 100%;
         margin: 1%;
-        padding: 1%;
+        padding: 3%;
     }
 }
