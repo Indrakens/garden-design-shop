@@ -444,11 +444,11 @@ h2 {
     
 }
 
-/* For screens size from 800px */
+/* For screens size from 700px */
 @media screen and (max-width: 700px) {
     #container {
         width: 90%;
-        height: 730px; 
+        height: 740px; 
         margin: 0 auto;
      }
     
@@ -528,12 +528,10 @@ h2 {
 
     #right-image {
         width: 60%;
-        
+        height: 60%;
         margin: 0 auto;   
     }
     
-   
-   
     p1 {
         width: 80%;
         float: left;
