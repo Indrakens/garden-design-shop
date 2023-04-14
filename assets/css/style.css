@@ -101,7 +101,7 @@ body {
 /* main container section */
 #main-container {
     width: 100%;
-    height: 700px;
+    height: 750px;
 }
 
 h3 {
@@ -151,6 +151,7 @@ p {
     width: 35%;
     float: right;
     padding-top: 65px;
+    margin-right: 20px;
 }
 
 /* about page */
@@ -270,12 +271,21 @@ h2 {
 
 /* For screens size from 1200px */
 @media screen and (max-width: 1200px) {
+   
     #main-container {
-       width: 65%;
-       height: 1200px; 
-       margin: 0 auto;
+        width: 100%;
+        height: 650px;
+        float: left;
+        margin: 0 auto;
     }
-    
+
+    #main-outer {
+        overflow: hidden;
+        background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
+        height: 450px;
+        width: 100%; 
+    }
+
     #logo-img, #logo-text {
         width: 100%;
         float: left;
@@ -285,44 +295,58 @@ h2 {
         margin: 0 auto;
     }
 
-  
-   
-    #header {
-        width: 100%;
-        float: left;
-        font-size: 90%;
-        margin: 0 auto;
-    } 
-
-    #right-image {
-        width: 85%;
-        height: 55%;
-        float: left; 
-        margin: 0 auto;   
+    h3 {
+        font-family: Alkatra, sans-serif;
+        font-size: 150%;
+        margin-left: 20px;
+        margin-right: 20px;
+        letter-spacing: 2px;
+        color: #922f04;
+        text-align: center;
     }
-
-
-    #paragraph {
-        width: 100%;
-        float: left;
-        font-size: 140%;
-        margin: 0 auto;
-    } 
     
-    #p2 {
-        margin-left: 130px;
-        margin-right: 130px;
-    }
-
     p {
-        width: 100%;
-        float: left;
-        font-size: 90%;
-        margin: 0 auto;
+        font-size: 100%;
     }
-
-
-
+    
+    #header {
+        padding-top: 40px;
+        width: 50%;
+        float: left;
+        margin-left: 40px;
+    }
+    
+    #header p {
+        text-align: center;
+        margin-top: 10px;
+       
+    }
+    
+    #paragraph {
+        padding-top: 60px;
+        width: 50%;
+        float: left;
+        margin-left: 20px;
+    }
+    #paragraph h3 {
+        margin-bottom: 10px;
+    }
+    
+    #paragraph p {
+        margin-left: 80px;
+        margin-top: 5px;
+    }
+    
+    #right-image {
+        width: 35%;
+        float: right;
+        padding-top: 65px;
+        margin-right: 40px;
+        
+    }
+    
+    
+    
 
 
 
