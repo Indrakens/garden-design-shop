@@ -154,38 +154,43 @@ p {
     margin-right: 20px;
 }
 
-/* about page */
+/* about container */
+#about-container {
+    width: 100%;
+    height: 850px;
+}
+
 p1 {
    float: right;
    margin-left: 300px;
    margin-right: 300px;
+   margin-top: 30px;
    margin-bottom: 30px;
    text-align: center;
-   font-size: 100%;
+   font-size: 120%;
 }
-
 
 #about-steps {
     float: right;
     margin-top: 25px;
-    margin-right: 180px;
-    width: 40%;
+    margin-right: 150px;
+    width: 50%;
     margin-top: 50px;
 }
 
 h4{
     font-family: Alkatra, sans-serif;
-    font-size: 100%;
+    font-size: 120%;
     color: #922f04;
+    margin-top: 20px;
 }
 
 p2 { 
-   font-size: 70%;
-   text-align: center;
+   font-size: 90%;
 }
 
 #about-image {
-    width: 40%;
+    width: 35%;
     float: left;
     padding-top: 3px;
     margin-left: 20px;
@@ -343,34 +348,49 @@ h2 {
         margin-right: 40px;
         
     }
-    
-    
-    
 
-
-
-
-    p1 {
+    #about-container {
         width: 100%;
-        float: left;
-        font-size: 90%;
-        padding-bottom: 20px;
-        margin: 0 auto;
+        height: 850px;
     }
-
+    
+    p1 {
+       float: right;
+       margin-left: 300px;
+       margin-right: 300px;
+       margin-top: 30px;
+       margin-bottom: 30px;
+       text-align: center;
+       font-size: 120%;
+    }
+    
     #about-steps {
-        width: 45%;
-        height: 60%;
-        font-size: 80%;
-        margin: 0 auto;
-       }
-
-    #about-image {
-        width: 55%;
-        height: 45%;
-        float: left; 
-        margin: 0 auto;  
+        float: right;
+        margin-top: 25px;
+        margin-right: 150px;
+        width: 50%;
+        margin-top: 50px;
     }
+    
+    h4{
+        font-family: Alkatra, sans-serif;
+        font-size: 120%;
+        color: #922f04;
+        margin-top: 20px;
+    }
+    
+    p2 { 
+       font-size: 90%;
+    }
+    
+    #about-image {
+        width: 35%;
+        float: left;
+        padding-top: 3px;
+        margin-left: 20px;
+    }
+    
+    
     .responsive {
         height: 100%;
         float: left;
