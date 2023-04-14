@@ -487,37 +487,40 @@ h2 {
 
     #about-container {
         width: 100%;
-        height: 850px;
+        height: 730px;
         float: left;
         margin: 0 auto;
     }
-
-    p{
-        margin-left: 300px;
-        margin-right: 300px;
-        margin-top: 30px;
-        margin-bottom: 30px;
-        text-align: center;
-        font-size: 120%;
-     }
+    
+    #about-text {
+        margin-left: 120px;
+        margin-right: 120px;
+        margin-top: 60px;
+        margin-bottom: 20px;
+    }
+    
+    p1 {
+       text-align: center;
+       font-size: 100%;
+    }
     
     #about-steps {
         float: right;
         margin-top: 25px;
-        margin-right: 100px;
+        margin-right: 60px;
         width: 50%;
         margin-top: 50px;
     }
     
     h4{
         font-family: Alkatra, sans-serif;
-        font-size: 100%;
+        font-size: 90%;
         color: #922f04;
-        margin-top: 20px;
+        margin-top: 15px;
     }
     
     p2 { 
-       font-size: 80%;
+       font-size: 75%;
     }
     
     #about-image {
