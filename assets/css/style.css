@@ -515,11 +515,12 @@ h2 {
 
 /* For screens size from 700px */
 @media screen and (max-width: 700px) {
-    #container {
-        width: 90%;
-        height: 740px; 
+    #main-container {
+        width: 100%;
+        height: 550px;
+        float: left;
         margin: 0 auto;
-     }
+    }
     
     #link-menu {
         clear: left;
@@ -559,47 +560,67 @@ h2 {
         display: none;    
     }
 
-    #paragraph {
-        width: 90%;
-        float: left;
-        font-size: 80%;
-        margin: 0 auto;
+    h3 {
+        font-family: Alkatra, sans-serif;
+        font-size: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+        letter-spacing: 1px;
+        color: #922f04;
+        text-align: center;
     }
     
     p {
-        width: 80%;
-        float: left;
-        font-size: 100%;
-        margin: 0 auto;
+        font-size: 80%;
     }
     
-    #p2 {
-        margin-left: 50px;
-        margin-right: 50px;
-        font-size: 80%;
-
+    #header {
+        padding-top: 40px;
+        width: 50%;
+        float: left;
+        margin-left: 40px;
     }
+    
+    #header p {
+        text-align: center;
+        margin-top: 10px;
+       
+    }
+    
+    #paragraph {
+        padding-top: 60px;
+        width: 50%;
+        float: left;
+        margin-left: 20px;
+    }
+    #paragraph h3 {
+        margin-bottom: 10px;
+    }
+    
+    #paragraph p {
+        margin-left: 40px;
+        margin-top: 5px;
+    }
+    
+    #right-image {
+        width: 35%;
+        float: right;
+        padding-top: 65px;
+        margin-right: 40px;
+        
+    }
+    
 
-    h3 {
-    font-family: Alkatra, sans-serif;
-    font-size: 150%;
-    margin-left: 30px;
-    margin-right: 30px;
-    letter-spacing: 1.5px;
-    color: #922f04;
-    text-align: center;
-}
+
+
+
    h4 {
         font-family: Alkatra, sans-serif;
         font-size: 70%;
         text-align: center;
    } 
 
-    #right-image {
-        width: 60%;
-        height: 60%;
-        margin: 0 auto;   
-    }
+    
     
     p1 {
         width: 80%;
@@ -654,4 +675,103 @@ h2 {
         margin: 1%;
         padding: 3%;
     }
+}
+
+/* For screens size from 550px */
+@media screen and (max-width: 550px) {
+    #main-container {
+        width: 100%;
+        height: 500px;
+        float: left;
+        margin: 0 auto;
+    }
+    
+    #link-menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        line-height: 2px;
+        font-size: 60%;
+    }
+
+    #nav-logo {
+        clear: left;
+        margin-left: 10px;
+        margin-bottom: 2px;
+        font-size: 150%;
+    }
+    
+    #main-outer {
+        overflow: hidden;
+        background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
+        height: 300px;
+        width: 100%; 
+    }
+
+    #circle-container {
+        width: 200px;
+        height: 200px;
+        padding: 20px;
+        border-color: rgba(0, 0, 0, 0.6);
+        border-width: 2px;
+        border-radius: 50%;
+        margin: 30px;
+        border-style: solid;
+    }
+
+    #logo-text {
+        display: none;    
+    }
+
+    h3 {
+        font-family: Alkatra, sans-serif;
+        font-size: 80%;
+        margin-left: 10px;
+        margin-right: 10px;
+        letter-spacing: 1px;
+        color: #922f04;
+        text-align: center;
+    }
+    
+    p {
+        font-size: 60%;
+    }
+    
+    #header {
+        padding-top: 20px;
+        width: 50%;
+        float: left;
+        margin-left: 20px;
+    }
+    
+    #header p {
+        text-align: center;
+        margin-top: 10px;
+       
+    }
+    
+    #paragraph {
+        padding-top: 60px;
+        width: 50%;
+        float: left;
+        margin-left: 10px;
+    }
+    #paragraph h3 {
+        margin-bottom: 10px;
+    }
+    
+    #paragraph p {
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+    
+    #right-image {
+        width: 35%;
+        float: right;
+        padding-top: 65px;
+        margin-right: 20px;
+        
+    }
+    
 }
