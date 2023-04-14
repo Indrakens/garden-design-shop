@@ -271,7 +271,6 @@ h2 {
 
 /* For screens size from 1200px */
 @media screen and (max-width: 1200px) {
-   
     #main-container {
         width: 100%;
         height: 650px;
@@ -390,12 +389,13 @@ h2 {
 
 /* For screens size from 950px */
 @media screen and (max-width: 950px) {
-    #container {
-        width: 90%;
-        height: 1000px; 
+    #main-container {
+        width: 100%;
+        height: 650px;
+        float: left;
         margin: 0 auto;
-     }
-    
+    }
+
     #link-menu {
         clear: left;
         float: left;
@@ -413,39 +413,62 @@ h2 {
         margin: 0 auto;
     }
 
-  
-   
-    #header {
-        width: 100%;
-        float: left;
-        font-size: 80%;
-        margin: 0 auto;
-    } 
-    #paragraph {
-        width: 100%;
+    h3 {
+        font-family: Alkatra, sans-serif;
         font-size: 150%;
-        margin: 0 auto;
+        margin-left: 20px;
+        margin-right: 20px;
+        letter-spacing: 2px;
+        color: #922f04;
+        text-align: center;
     }
     
     p {
-        width: 100%;
-        font-size: 90%;
-        margin: 0 auto;
+        font-size: 100%;
     }
     
-    #p2 {
-        margin-left: 130px;
-        margin-right: 130px;
-        font-size: 140%;
-
+    #header {
+        padding-top: 40px;
+        width: 50%;
+        float: left;
+        margin-left: 40px;
     }
-
+    
+    #header p {
+        text-align: center;
+        margin-top: 10px;
+       
+    }
+    
+    #paragraph {
+        padding-top: 60px;
+        width: 50%;
+        float: left;
+        margin-left: 20px;
+    }
+    #paragraph h3 {
+        margin-bottom: 10px;
+    }
+    
+    #paragraph p {
+        margin-left: 80px;
+        margin-top: 5px;
+    }
+    
     #right-image {
-        width: 65%;
-        height: 75%;
-        float: left; 
-        margin: 0 auto;   
+        width: 35%;
+        float: right;
+        padding-top: 65px;
+        margin-right: 40px;
+        
     }
+    
+
+
+
+
+
+
 
     p1 {
         width: 100%;
