@@ -665,7 +665,7 @@ h2 {
     
     #about-container {
         width: 100%;
-        height: 750px;
+        height: 770px;
     }
     #about-paragraph {
         padding-top: 20px;
@@ -704,13 +704,6 @@ h2 {
         margin-left: 20px;
     }
     
-
-
-
-
-
-
-    
     .responsive {
         height: 50%;
         float: left;
@@ -727,9 +720,7 @@ h2 {
     }
     
     .social-media {
-        height: 60px;
-        position: relative;
-        z-index: 1;
+        height: 60px
     }
     
     .social-media li {
@@ -744,8 +735,8 @@ h2 {
     }
 }
 
-/* For screens size from 550px */
-@media screen and (max-width: 550px) {
+/* For screens size from 600px */
+@media screen and (max-width: 600px) {
     #main-container {
         width: 100%;
         height: 500px;
@@ -840,5 +831,61 @@ h2 {
         margin-right: 20px;
         
     }
+
+    #about-container {
+        width: 100%;
+        height: 1050px;
+    }
+    #about-paragraph {
+        padding-top: 10px;
+        width: 80%;
+        float: left;
+         margin-left: 20px
+    }
+
+    p1 { 
+        font-size: 60%;
+    }
+    
+    #about-steps {
+        float: left;
+        margin-top: 10px;
+        margin-right: 10px;
+        width: 55%;
+        margin-left: 0 auto;
+    }
+    
+    h4{
+        font-family: Alkatra, sans-serif;
+        font-size: 60%;
+        color: #922f04;
+    }
+    
+    p2 { 
+       font-size: 45%;
+    }
+    
+    #about-image {
+        width: 35%;
+        float: left;
+        padding-top: 3px;
+        margin-left: 20px;
+    }
+
+    .social-media {
+        height: 60px;
+    }
+    
+    .social-media li {
+        display: inline;
+        
+    }
+    
+    .social-media i {
+        font-size: 100%;
+        margin: 1%;
+        padding: 3%;
+    }
+    
     
 }
