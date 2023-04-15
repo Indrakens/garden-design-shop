@@ -166,15 +166,11 @@ p {
     margin-left: 60px;
 }
 
-p1 { 
-    font-size: 120%;
-}
-
 #about-steps {
     float: right;
     margin-top: 25px;
-    margin-right: 150px;
-    width: 50%;
+    margin-right: 100px;
+    width: 55%;
     margin-top: 50px;
 }
 
@@ -185,15 +181,16 @@ h4{
     margin-top: 10px;
 }
 
-p2 { 
-   font-size: 90%;
-}
-
 #about-image {
     width: 35%;
     float: left;
     padding-top: 3px;
     margin-left: 20px;
+}
+
+#about-image .responsive {
+    width: 85%;
+    height: auto;
 }
 
 /* email us*/
@@ -349,17 +346,13 @@ h2 {
 
     #about-container {
         width: 100%;
-        height: 950px;
+        height: 1000px;
     }
     #about-paragraph {
         padding-top: 80px;
         width: 60%;
         float: left;
          margin-left: 60px
-    }
-
-    p1 { 
-        font-size: 120%;
     }
     
     #about-steps {
@@ -375,10 +368,6 @@ h2 {
         font-size: 100%;
         color: #922f04;
         margin-top: 10px;
-    }
-    
-    p2 { 
-       font-size: 90%;
     }
     
     #about-image {
@@ -496,17 +485,13 @@ h2 {
 
     #about-container {
         width: 100%;
-        height: 820px;
+        height: 850px;
     }
     #about-paragraph {
         padding-top: 50px;
         width: 60%;
         float: left;
          margin-left: 40px
-    }
-
-    p1 { 
-        font-size: 100%;
     }
     
     #about-steps {
@@ -522,10 +507,6 @@ h2 {
         font-size: 100%;
         color: #922f04;
         margin-top: 5px;
-    }
-    
-    p2 { 
-       font-size: 70%;
     }
     
     #about-image {
@@ -673,10 +654,6 @@ h2 {
         float: left;
          margin-left: 20px
     }
-
-    p1 { 
-        font-size: 80%;
-    }
     
     #about-steps {
         float: right;
@@ -691,10 +668,6 @@ h2 {
         font-size: 85%;
         color: #922f04;
         margin-top: 5px;
-    }
-    
-    p2 { 
-       font-size: 60%;
     }
     
     #about-image {
@@ -834,17 +807,13 @@ h2 {
 
     #about-container {
         width: 100%;
-        height: 650px;
+        height: 550px;
     }
     #about-paragraph {
         padding-top: 10px;
         width: 80%;
         float: left;
          margin-left: 20px
-    }
-
-    p1 { 
-        font-size: 60%;
     }
     
     #about-steps {
@@ -859,10 +828,6 @@ h2 {
         font-family: Alkatra, sans-serif;
         font-size: 60%;
         color: #922f04;
-    }
-    
-    p2 { 
-       font-size: 45%;
     }
     
     #about-image {
@@ -894,17 +859,13 @@ h2 {
 @media screen and (max-width: 400px) {
     #about-container {
         width: 100%;
-        height: 1100px;
+        height: 850px;
     }
     #about-paragraph {
         padding-top: 10px;
         width: 80%;
         float: left;
          margin-left: 20px
-    }
-
-    p1 { 
-        font-size: 60%;
     }
     
     #about-steps {
@@ -921,17 +882,10 @@ h2 {
         color: #922f04;
     }
     
-    p2 { 
-       font-size: 45%;
-    }
-    
     #about-image {
         width: 35%;
         float: left;
         padding-top: 3px;
         margin-left: 20px;
     }
-
-    
-
 }
