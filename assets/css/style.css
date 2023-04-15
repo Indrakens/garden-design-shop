@@ -154,6 +154,11 @@ p {
     margin-right: 20px;
 }
 
+#right-image .responsive {
+    width: 100%;
+    height: auto;
+}
+
 /* about container */
 #about-container {
     width: 100%;
