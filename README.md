@@ -18,12 +18,26 @@ Users will be able to find all the information they need to know about Garden De
 * The website uses Alkatra sans-serif font for headings, Raleway sans-serif font for body text. 
 
 ## Images
-The website uses images uploaded and designed by me from Canva app.
+* The website uses images uploaded and designed by me from Canva app.
 ### Aploaded images from Canva app:
- ![5FF0A345-6332-4F70-97F0-0D2D79B38B02](https://user-images.githubusercontent.com/127971416/232595491-98628d42-5616-4725-9e2a-9b51dc249398.jpg) ![92F2D926-EA76-4AE5-B0DB-E9EC67F87180](https://user-images.githubusercontent.com/127971416/232595232-12495d3b-add5-487f-a193-49a0353cab64.png) 
+![885AE6B3-8D23-4845-A14D-2C16D179311A](https://user-images.githubusercontent.com/127971416/232613747-6b75a412-f986-45e3-a63b-9ba4dd07c6fd.png)
 
  ### My created images in Canva app and aploaded to website:
- ![C62454E8-48E9-45F5-B179-4102DF7C8BDD](https://user-images.githubusercontent.com/127971416/232596469-903dd238-b669-4cc7-93eb-a70f7d15a744.png) ![7422488F-34CB-470F-ABB9-FA2087260974](https://user-images.githubusercontent.com/127971416/232596559-18dd3772-a19c-4a23-8e2b-d6415fd1d8ab.png)
+<img width="1115" alt="BCECE8C6-DDE0-4684-A1C2-6FB8E9E2DCD6" src="https://user-images.githubusercontent.com/127971416/232614085-5c8101f8-b316-4d41-a1ce-0945364359b3.png">
+
+
+ ## Wireframes
+ Wireframes were created to plan the layout and design for website.
+
+ ![New Wireframe 2](https://user-images.githubusercontent.com/127971416/232599917-0a88acd1-3502-4214-8885-284b4388528d.png)
+
+ # Features
+ * The website have three main pages- Home, About and Email Us page.
+
+ ## Home Page
+ * 
+
+ <img width="1115" alt="94E6C2D7-5B96-4A5E-9583-6F75F66826D9" src="https://user-images.githubusercontent.com/127971416/232610247-f7f9b02a-30e3-4bd4-b31a-91dacb3fb394.png">
 
 
 
