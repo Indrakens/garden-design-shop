@@ -60,6 +60,7 @@ Users will be able to find all the information they need to know about Garden De
 * HTML About Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * HTML Email Us Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * CSS [Jigsaw validator]( )
+* add lighthouse!!!
 
 ## Unfixed Bugs
 add bug
