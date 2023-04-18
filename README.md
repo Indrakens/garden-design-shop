@@ -36,15 +36,12 @@ Users will be able to find all the information they need to know about Garden De
 
  ## Home Page
  * The home page shows an introduction about the Garden Design Studio and services. 
-<img width="1115" alt="1A1BDAC7-C435-4CFD-8243-02A86E3BB6F1" src="https://user-images.githubusercontent.com/127971416/232617145-1df9d210-9fa1-4e01-8ed6-1e471bac1456.png">
 
 ## About Page
 * About page shows  steps for designing the project.
-![13C7B6B7-373A-46ED-A3A8-D6E9C4EA8CAA](https://user-images.githubusercontent.com/127971416/232618302-7ed29801-b8f7-4aed-8044-b90932415258.jpg)
 
 ## Email Us Page
 * Email Us page shows the email form where clients can email for consultation.
-![1BEB9823-3854-4443-B8F5-B4E0A95916D3](https://user-images.githubusercontent.com/127971416/232618988-4e869303-6afa-4003-8a08-0e486af90064.jpg)
 
 
 
