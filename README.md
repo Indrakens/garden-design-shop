@@ -5,11 +5,6 @@ Users will be able to find all the information they need to know about Garden De
 
 ![739EF6A3-F107-4D02-9515-BA3E1564C46B](https://user-images.githubusercontent.com/127971416/232586759-7ad0384a-3df0-4953-aadd-a2335bab64f1.jpg)
 
-
-## Navigation
-* GDS logo: link to the home page.
-* Home, About, Email Us: are links for each sepparate page.
-
 # Design
 ## Color Scheme
 ![Color Pallete](https://user-images.githubusercontent.com/127971416/232593088-4d27d84a-63f2-4c19-8a7d-bd5ab5c77c1e.png)
