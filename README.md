@@ -33,15 +33,27 @@ Users will be able to find all the information they need to know about Garden De
 
  # Features
  * The website have three main pages- Home, About and Email Us page.
-
+ ## Navigation Bar
+ Featured on all three pages.
+ * GDS logo, Home: links to the home page.
+ * About: links to about page.
+ * Email Us: links to the email form page.
+ 
  ## Home Page
- * The home page shows an introduction about the Garden Design Studio and services. 
+ * Includes a circle image and main text inside the hero image.
+ * Includes an introduction about the Garden Design Studio and services. 
 
 ## About Page
-* About page shows  steps for designing the project.
+* Includes consultation description text and steps taken for designing the project.
 
 ## Email Us Page
-* Email Us page shows the email form where clients can email for consultation.
+* Includes email form where users will be able to email for consultation.
+
+## Footer
+* Includes the social media sites for Garden Design Studio. 
+
+# Testing
+* The page works in different browsers: Chrome, Firefox, Safari and is responsive.
 
 
 
