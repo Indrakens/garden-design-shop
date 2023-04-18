@@ -61,6 +61,16 @@ Users will be able to find all the information they need to know about Garden De
 * HTML Email Us Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * CSS [Jigsaw validator]( )
 
+## Unfixed Bugs
+add bug
+
+# Deployment
+The site was deployed to GitHub pages The steps to deploy are as follows:
+* In the GitHub repository, navigate to the Settings tab
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will link to the completed website.
+The completed website link can be be found here [GARDEN DESIGN STUDIO](  https://indrakens.github.io/garden-design-studio/ )
+
 
 
 
