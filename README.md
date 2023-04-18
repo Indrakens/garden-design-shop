@@ -44,7 +44,7 @@ Users will be able to find all the information they need to know about Garden De
  * Includes an introduction about the Garden Design Studio and services. 
 
 ## About Page
-* Includes consultation description text and steps taken for designing the project.
+* Includes consultation description text and steps taken for the project.
 
 ## Email Us Page
 * Includes email form where users will be able to email for consultation.
