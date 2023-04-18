@@ -235,7 +235,10 @@ h2 {
     border: 2px solid #ffda00;
     border-radius: 2px;
     }
-    
+#message {
+    height:100px;
+}
+
 .text-input:hover {
     border-color: #922f04;
     }
