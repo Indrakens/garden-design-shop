@@ -91,7 +91,7 @@ body {
 }
 
 #logo-text {
-    color:  rgba(0, 0, 0, 0.6);
+    color: #000;
     float: right;
     padding-top: 125px;
     font-size: 300%;
