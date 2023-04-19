@@ -10,8 +10,10 @@ Users will be able to find all the information they need to know about Garden De
 ## Color Scheme
 ![Cplor-Palete](https://user-images.githubusercontent.com/127971416/233114563-9fc341fa-3d31-4268-a526-9bb0f01a0357.png)
 
-## Fonts
-* The website uses Raleway sans-serif font.
+## Fonts and Icons
+* The website uses Raleway sans-serif font [Google Fonts]( https://fonts.google.com/ )
+* Icons from [Font Awesom]( https://fontawesome.com/ )
+
 ## Images
 * The website uses images uploaded from Canva app.
 ![389EDD02-151C-4A4A-BC0B-C041298DD378](https://user-images.githubusercontent.com/127971416/233204945-9fce940e-4cce-4e2d-bfc9-fcf1bf91173e.png)
