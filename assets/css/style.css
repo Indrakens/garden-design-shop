@@ -188,11 +188,13 @@ p {
     .text {font-size: 11px}
   }
 
-#about-paragraph {
+#about-paragraph p{
     padding-top: 80px;
-    width: 60%
+    padding-bottom: 20px;
+    width: 60%;
     float: left;
     margin-left: 60px;
+    text-align: center;
 }
 
 #about-steps {
