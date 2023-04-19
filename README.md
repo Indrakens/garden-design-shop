@@ -3,7 +3,7 @@ The Garden Design Studio is website for clients lokking for proffessional garden
 
 Users will be able to find all the information they need to know about Garden Design Studio, garden design services, garden design process- whats envolved and email form, where they will be able email for consultation appoitment.
 
-![6CE60A8E-D589-4DC0-9E9B-42F19629EA2B](https://user-images.githubusercontent.com/127971416/233124702-c1371104-6937-41f3-890b-0812eb3da693.jpg)
+![0A419354-DD77-461C-BA84-43D7CAA63830](https://user-images.githubusercontent.com/127971416/233183275-01e4268e-3980-473e-87ed-b50921c082aa.jpg)
 
 # Design
 ## Color Scheme
