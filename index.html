@@ -37,7 +37,32 @@
 
 <section id="main-container">
     <div id="right-image">
-        <img src="assets/img/807CD2B7-0C60-4163-9AAB-7568970E72AA.png" alt="sketch" class="responsive">
+      <div class="slideshow-container">
+         <div class="mySlides fade">
+                <div class="numbertext"></div>
+                <img src="assets/img/4701898C-9466-4409-80AC-3EE84745F6BE.jpg" style="width:90%" alt="garden1">
+                <div class="text"></div>
+              </div>
+            
+              <div class="mySlides fade">
+                <div class="numbertext"></div>
+                <img src="assets/img/91A1DED0-566A-4A2E-9011-0BEAD949B68E.png" style="width:90%" alt="garden2">
+                <div class="text"></div>
+              </div>
+    
+              <div class="mySlides fade">
+                <div class="numbertext"></div>
+                <img src="assets/img/3A30B9E5-11BC-42B9-B944-BD0039683715.jpg" style="width:90%" alt="garden3">
+                <div class="text"></div>
+               </div>
+    
+               <div>
+                <span class="dot"></span> 
+                <span class="dot"></span> 
+                <span class="dot"></span> 
+                <span class="dot"></span>
+              </div>
+            </div> <!--end of slideshow container div-->
     </div> <!--end of right-image div-->
     <div id="header">
         <h3>Improve Your Home- Design Your Garden!</h3>
@@ -72,5 +97,27 @@
 
     <!--fontawesome script-->
     <script src="https://kit.fontawesome.com/3112f3ead0.js" crossorigin="anonymous"></script>
+    <!--slide show script-->
+     <script>
+        let slideIndex = 0;
+        showSlides();
+        
+        function showSlides() {
+          let i;
+          let slides = document.getElementsByClassName("mySlides");
+          let dots = document.getElementsByClassName("dot");
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+          }
+          slideIndex++;
+          if (slideIndex > slides.length) {slideIndex = 1}    
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+          setTimeout(showSlides, 2000); // Change image every 2 seconds
+        }
+        </script>
 </body>
 </html>
