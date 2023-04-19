@@ -91,7 +91,7 @@ body {
 }
 
 #logo-text {
-    color: #000;
+    color: rgba(0, 0, 0, 0.7);
     float: right;
     padding-top: 125px;
     font-size: 300%;
@@ -334,7 +334,7 @@ h2 {
         margin-left: 20px;
         margin-right: 20px;
         letter-spacing: 2px;
-        color: #922f04;
+        color: #fec900;
         text-align: center;
     }
     
@@ -381,6 +381,7 @@ h2 {
         width: 100%;
         height: 1000px;
     }
+    
     #about-paragraph {
         padding-top: 80px;
         width: 60%;
@@ -399,7 +400,7 @@ h2 {
     h4{
         font-family: Alkatra, sans-serif;
         font-size: 100%;
-        color: #922f04;
+        color: #f16d00;
         margin-top: 10px;
     }
     
@@ -472,7 +473,7 @@ h2 {
         margin-left: 20px;
         margin-right: 20px;
         letter-spacing: 2px;
-        color: #922f04;
+        color: #fec900;
         text-align: center;
     }
     
@@ -537,7 +538,7 @@ h2 {
     h4{
         font-family: Alkatra, sans-serif;
         font-size: 100%;
-        color: #922f04;
+        color: #f16d00;
         margin-top: 5px;
     }
     
@@ -632,7 +633,7 @@ h2 {
         margin-left: 10px;
         margin-right: 10px;
         letter-spacing: 1px;
-        color: #922f04;
+        color: #fec900;
         text-align: center;
     }
     
@@ -680,6 +681,7 @@ h2 {
         width: 100%;
         height: 770px;
     }
+    
     #about-paragraph {
         padding-top: 20px;
         width: 80%;
@@ -697,7 +699,7 @@ h2 {
     h4{
         font-family: Alkatra, sans-serif;
         font-size: 85%;
-        color: #922f04;
+        color: #f16d00;
         margin-top: 5px;
     }
     
@@ -792,7 +794,7 @@ h2 {
         margin-left: 10px;
         margin-right: 10px;
         letter-spacing: 1px;
-        color: #922f04;
+        color: #fec900;
         text-align: center;
     }
     
@@ -840,6 +842,7 @@ h2 {
         width: 100%;
         height: 550px;
     }
+    
     #about-paragraph {
         padding-top: 10px;
         width: 80%;
@@ -857,7 +860,7 @@ h2 {
     h4{
         font-family: Alkatra, sans-serif;
         font-size: 60%;
-        color: #922f04;
+        color: #f16d00;
     }
     
     #about-image {
@@ -908,7 +911,7 @@ h2 {
     h4{
         font-family: Alkatra, sans-serif;
         font-size: 60%;
-        color: #922f04;
+        color: #f16d00;
     }
     
     #about-image {
