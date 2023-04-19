@@ -55,7 +55,7 @@ Users will be able to find all the information they need to know about Garden De
 * add lighthouse!!!
 
 ## Major Changes
-For the begining I was using differnt color scheem for website. There was included different style images. I changed the color scheem and images becouse it looked plain. I added slideshow images to home page and about page. The code for slideshoe I took and modify from [w3school]( https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto ) . 
+For the begining I was using differnt color scheem for website. There was included different style images. I changed the color scheem and images becouse it looked plain. I added slideshow images to home page and about page. The code for slideshoe I modify from [w3school]( https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto ) . 
 
 ## Bugs
 I had a issue with circle image in home page, when I was resizing the screen the circle image appeared just half. The issues I had was with no closing divs or added to many, whitch couse the issue with circle image. 
