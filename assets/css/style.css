@@ -13,7 +13,8 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    color: #000;
+    color: #fddaab;
+    background-color: #000;
 }
 
 
@@ -23,7 +24,7 @@ body {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
-    color: #e88501;
+    color: #f16d00;
     margin-left: 40px;
 }
 
@@ -52,7 +53,7 @@ body {
 
 #link-menu a {
     text-decoration: none;
-    color: #e88501;
+    color: #f16d00;
    
 }
 
@@ -114,7 +115,7 @@ h3 {
     margin-left: 20px;
     margin-right: 20px;
     letter-spacing: 2px;
-    color: #922f04;
+    color: #fec900;
     text-align: center;
 }
 
@@ -210,7 +211,7 @@ p {
 h4{
     font-family: Alkatra, sans-serif;
     font-size: 120%;
-    color: #922f04;
+    color: #f16d00;
     margin-top: 10px;
 }
 
