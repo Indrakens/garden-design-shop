@@ -199,10 +199,8 @@ p {
 
 #about-steps {
     float: right;
-    margin-top: 25px;
     margin-right: 100px;
-    width: 55%;
-    margin-top: 50px;
+    width: 55%;  
 }
 
 h4{
