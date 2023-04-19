@@ -23,12 +23,12 @@ body {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
-    color: #922f04;
+    color: #e88501;
     margin-left: 40px;
 }
 
 #nav-logo:hover {
-    color: #ffda00;
+    color: #fec900;
 }
 
 
@@ -52,16 +52,16 @@ body {
 
 #link-menu a {
     text-decoration: none;
-    color: #922f04;
+    color: #e88501;
    
 }
 
 #link-menu a:hover {
-    color: #ffda00;
+    color: #fec900;
     
 }
 #link-menu a.active {
-    color: #ffda00;
+    color: #fec900;
 }
 
 /* home page*/
