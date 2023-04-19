@@ -54,8 +54,20 @@ Users will be able to find all the information they need to know about Garden De
 * CSS [Jigsaw validator]( https://jigsaw.w3.org/css-validator/validator )
 * add lighthouse!!!
 
-## Unfixed Bugs
-add bug
+## Major Changes
+For the begining I was using differnt color sheem for website. There was included different style images. I changed the color scheem and images becouse it looked plain. I added slideshow images to home page and about page. The code for slideshoe I took and modify from [w3school]( https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto ) . 
+
+## Bugs
+I had a issue with circle image in home page, when I was resizing the screen the circle image appeared just half. The issues I had was with no closing divs or added to many, whitch couse the issue with circle image. 
+* Before: 
+
+![526A61CE-A33E-45D2-9602-B096F526D2B9](https://user-images.githubusercontent.com/127971416/233215792-3ce64624-b0f8-49d2-859a-8cf756ab1d9a.jpg)
+
+* After:
+
+![6C2C44FB-5501-4D89-84A6-7197154EB22E](https://user-images.githubusercontent.com/127971416/233215947-67220c08-ab16-43f2-8c10-5544da0c231a.jpg)
+
+
 
 # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
