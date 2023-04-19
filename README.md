@@ -7,7 +7,7 @@ Users will be able to find all the information they need to know about Garden De
 
 # Design
 ## Color Scheme
-![Color Pallete](https://user-images.githubusercontent.com/127971416/232593088-4d27d84a-63f2-4c19-8a7d-bd5ab5c77c1e.png)
+![Color Pallete](https://user-images.githubusercontent.com/Color-Palete.png)
 
 ## Fonts
 * The website uses Alkatra sans-serif font for headings, Raleway sans-serif font for body text.
