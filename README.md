@@ -5,6 +5,7 @@ Users will be able to find all the information they need to know about Garden De
 
 ![0A419354-DD77-461C-BA84-43D7CAA63830](https://user-images.githubusercontent.com/127971416/233183275-01e4268e-3980-473e-87ed-b50921c082aa.jpg)
 
+
 # Design
 ## Color Scheme
 ![Cplor-Palete](https://user-images.githubusercontent.com/127971416/233114563-9fc341fa-3d31-4268-a526-9bb0f01a0357.png)
@@ -13,6 +14,7 @@ Users will be able to find all the information they need to know about Garden De
 * The website uses Raleway sans-serif font.
 ## Images
 * The website uses images uploaded from Canva app.
+![389EDD02-151C-4A4A-BC0B-C041298DD378](https://user-images.githubusercontent.com/127971416/233204945-9fce940e-4cce-4e2d-bfc9-fcf1bf91173e.png)
 
  ## Wireframes
  Wireframes were created to plan the layout and design for website.
@@ -43,7 +45,7 @@ Users will be able to find all the information they need to know about Garden De
 * Includes the social media sites for Garden Design Studio. 
 
 # Testing
-* The page works in different browsers: Chrome, Firefox, Safari and is responsive.
+* The website works in different browsers: Chrome, Firefox, Safari and is responsive.
 
 # Validator Testing
 * HTML Home Page [W3C validator]( https://validator.w3.org/nu/#textarea )
