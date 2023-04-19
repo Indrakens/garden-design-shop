@@ -12,13 +12,7 @@ Users will be able to find all the information they need to know about Garden De
 ## Fonts
 * The website uses Raleway sans-serif font.
 ## Images
-* The website uses images uploaded and designed by me from Canva app.
-### Aploaded images from Canva app:
-![885AE6B3-8D23-4845-A14D-2C16D179311A](https://user-images.githubusercontent.com/127971416/232613747-6b75a412-f986-45e3-a63b-9ba4dd07c6fd.png)
-
- ### My created images in Canva app and aploaded to website:
-<img width="1115" alt="BCECE8C6-DDE0-4684-A1C2-6FB8E9E2DCD6" src="https://user-images.githubusercontent.com/127971416/232614085-5c8101f8-b316-4d41-a1ce-0945364359b3.png">
-
+* The website uses images uploaded from Canva app.
 
  ## Wireframes
  Wireframes were created to plan the layout and design for website.
@@ -35,10 +29,12 @@ Users will be able to find all the information they need to know about Garden De
  
  ## Home Page
  * Includes a circle image and main text inside the hero image.
- * Includes an introduction about the Garden Design Studio and services. 
+ * Includes an introduction about the Garden Design Studio and services.
+ * Includes slide-show images. 
 
 ## About Page
 * Includes consultation description text and steps taken for the project.
+* Includes slide-show images.
 
 ## Email Us Page
 * Includes email form where users will be able to email for consultation.
@@ -53,7 +49,7 @@ Users will be able to find all the information they need to know about Garden De
 * HTML Home Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * HTML About Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * HTML Email Us Page [W3C validator]( https://validator.w3.org/nu/#textarea )
-* CSS [Jigsaw validator]( )
+* CSS [Jigsaw validator]( https://jigsaw.w3.org/css-validator/validator )
 * add lighthouse!!!
 
 ## Unfixed Bugs
