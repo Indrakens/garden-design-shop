@@ -188,7 +188,7 @@ p {
     .text {font-size: 11px}
   }
 
-#about-paragraph p{
+#about-paragraph {
     padding-top: 80px;
     padding-bottom: 20px;
     width: 60%;
