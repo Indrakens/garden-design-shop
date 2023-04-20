@@ -72,7 +72,7 @@ Users will be able to find all the information they need to know about Garden De
 ![C44467E2-8436-448D-BEEF-914B8B24CAD5](https://user-images.githubusercontent.com/127971416/233459728-68cc80cb-0ffd-453e-bed4-31c2679ef018.jpg)
 
 ## FOOTER
-* Includes the social media sites for Garden Design Studio.
+* Includes the social media sites for Garden Design Studio. Featured on all three pages.
 ![23118103-0ED0-4547-9431-7C19B89E6000](https://user-images.githubusercontent.com/127971416/233460219-034bc93a-2b1c-4a36-a850-0994ce276357.jpg) 
 
 # TESTING
