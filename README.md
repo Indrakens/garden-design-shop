@@ -9,22 +9,22 @@ Users will be able to find all the information they need to know about Garden De
 
 
 # CONTENTS
-  * ## [DESIGN]( https://github.com/Indrakens/garden-design-studio#design )
-      * ### [Color Scheme]( https://github.com/Indrakens/garden-design-studio#color-scheme )
-      * ### [Fonts and Icons]( https://github.com/Indrakens/garden-design-studio#fonts-and-icons )
-      * ### [Images]( https://github.com/Indrakens/garden-design-studio#images )
-      * ### [Wireframe]( https://github.com/Indrakens/garden-design-studio#wireframes )
-  * ## [FEATURES]( https://github.com/Indrakens/garden-design-studio#features )
-      * ### [Navigation Bar]( https://github.com/Indrakens/garden-design-studio#features )
-      * ###  [Home Page]( https://github.com/Indrakens/garden-design-studio#home-page )
-      * ### [About Page]( https://github.com/Indrakens/garden-design-studio#about-page )
-      * ### [Email Form Page]( https://github.com/Indrakens/garden-design-studio#email-form-page )
-      * ### [Footer]( https://github.com/Indrakens/garden-design-studio#footer )
-  *  ## [TESTING]( https://github.com/Indrakens/garden-design-studio#testing )
-  *  ## [VALIDATOR TESTING]( https://github.com/Indrakens/garden-design-studio#validator-testings )
-  *  ## [MAJOR CHANGES]( https://github.com/Indrakens/garden-design-studio#major-changes )
-  *  ## [BUGS]( https://github.com/Indrakens/garden-design-studio#bugs )
-  *  ## [DEPLOYMENT]( https://github.com/Indrakens/garden-design-studio#deployment )
+  * ### [DESIGN]( https://github.com/Indrakens/garden-design-studio#design )
+      * #### [Color Scheme]( https://github.com/Indrakens/garden-design-studio#color-scheme )
+      * #### [Fonts and Icons]( https://github.com/Indrakens/garden-design-studio#fonts-and-icons )
+      * #### [Images]( https://github.com/Indrakens/garden-design-studio#images )
+      * #### [Wireframe]( https://github.com/Indrakens/garden-design-studio#wireframes )
+  * ### [FEATURES]( https://github.com/Indrakens/garden-design-studio#features )
+      * #### [Navigation Bar]( https://github.com/Indrakens/garden-design-studio#features )
+      * ####  [Home Page]( https://github.com/Indrakens/garden-design-studio#home-page )
+      * #### [About Page]( https://github.com/Indrakens/garden-design-studio#about-page )
+      * #### [Email Form Page]( https://github.com/Indrakens/garden-design-studio#email-form-page )
+      * #### [Footer]( https://github.com/Indrakens/garden-design-studio#footer )
+  *  ### [TESTING]( https://github.com/Indrakens/garden-design-studio#testing )
+  *  ### [VALIDATOR TESTING]( https://github.com/Indrakens/garden-design-studio#validator-testings )
+  *  ### [MAJOR CHANGES]( https://github.com/Indrakens/garden-design-studio#major-changes )
+  *  ### [BUGS]( https://github.com/Indrakens/garden-design-studio#bugs )
+  *  ### [DEPLOYMENT]( https://github.com/Indrakens/garden-design-studio#deployment )
 
 
 
