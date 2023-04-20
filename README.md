@@ -49,24 +49,31 @@ Users will be able to find all the information they need to know about Garden De
  * The website have three main pages- Home, About and Email Us page.
  ## NAVIGATION BAR
  Featured on all three pages.
+ ![1CFA67D8-03E4-4D32-B09A-9EC9A9EBA4CA](https://user-images.githubusercontent.com/127971416/233458560-f6ae838d-d58c-4bfa-9b9d-4066d210d975.jpg)
  * GDS logo, Home: links to the home page.
  * About: links to about page.
  * Email Us: links to the email form page.
  
  ## HOME PAGE
  * Includes a circle image and main text inside the hero image.
+ ![AB95970D-C2D6-4D9D-87DA-CFB60899ECBC](https://user-images.githubusercontent.com/127971416/233458974-7da3da30-90c7-4a58-a96c-99d43fed94f9.jpeg)
+
  * Includes an introduction about the Garden Design Studio and services.
  * Includes slide-show images. 
+ ![EFC88852-6137-4AD8-8BDB-F5C4C5948A0A](https://user-images.githubusercontent.com/127971416/233459263-12c54682-6756-4e83-bdac-4dbd34e06d1e.jpeg)
 
 ## ABOUT PAGE
 * Includes consultation description text and steps taken for the project.
 * Includes slide-show images.
+![47DE077A-9294-46D3-B842-8940B57617C4](https://user-images.githubusercontent.com/127971416/233459526-fda0dedb-df05-49e1-8a99-b4bf7c558931.jpeg)
 
 ## EMAIL FORM PAGE
 * Includes email form where users will be able to email for consultation.
+![C44467E2-8436-448D-BEEF-914B8B24CAD5](https://user-images.githubusercontent.com/127971416/233459728-68cc80cb-0ffd-453e-bed4-31c2679ef018.jpg)
 
 ## FOOTER
-* Includes the social media sites for Garden Design Studio. 
+* Includes the social media sites for Garden Design Studio.
+![23118103-0ED0-4547-9431-7C19B89E6000](https://user-images.githubusercontent.com/127971416/233460219-034bc93a-2b1c-4a36-a850-0994ce276357.jpg) 
 
 # TESTING
 * The website works in different browsers: Chrome, Firefox, Safari and is responsive.
