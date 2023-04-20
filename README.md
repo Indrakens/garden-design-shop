@@ -6,16 +6,24 @@ Users will be able to find all the information they need to know about Garden De
 ![C2688BAE-BDB0-4A0F-A986-F7877BDF85B0](https://user-images.githubusercontent.com/127971416/233208905-5bb2f0a1-8f8d-4d16-b133-502eb30cef65.jpg)
 
 # CONTENTS
- ## [DESIGN]( https://github.com/Indrakens/garden-design-studio#design )
- * ### [COLOR SCHEME]( https://github.com/Indrakens/garden-design-studio#color-scheme )
- * ### [FONTS AND ICONS]( https://github.com/Indrakens/garden-design-studio#fonts-and-icons )
- * ### [IMAGES]( https://github.com/Indrakens/garden-design-studio#images )
- * ### [WIREFRAME]( https://github.com/Indrakens/garden-design-studio#wireframes )
- ## [FEATURES]( https://github.com/Indrakens/garden-design-studio#features )
- * ### [NAVIGATION BAR]( https://github.com/Indrakens/garden-design-studio#features )
- * ###  [HOME PAGE]( https://github.com/Indrakens/garden-design-studio#home-page )
- * ### [ABOUT PAGE]( https://github.com/Indrakens/garden-design-studio#about-page )
- 
+  * ## [DESIGN]( https://github.com/Indrakens/garden-design-studio#design )
+      * ### [COLOR SCHEME]( https://github.com/Indrakens/garden-design-studio#color-scheme )
+      * ### [FONTS AND ICONS]( https://github.com/Indrakens/garden-design-studio#fonts-and-icons )
+      * ### [IMAGES]( https://github.com/Indrakens/garden-design-studio#images )
+      * ### [WIREFRAME]( https://github.com/Indrakens/garden-design-studio#wireframes )
+  * ## [FEATURES]( https://github.com/Indrakens/garden-design-studio#features )
+      * ### [NAVIGATION BAR]( https://github.com/Indrakens/garden-design-studio#features )
+      * ###  [HOME PAGE]( https://github.com/Indrakens/garden-design-studio#home-page )
+      * ### [ABOUT PAGE]( https://github.com/Indrakens/garden-design-studio#about-page )
+      * ### [EMAIL FORM PAGE]( https://github.com/Indrakens/garden-design-studio#email-form-page )
+      * ### [FOOTER]( https://github.com/Indrakens/garden-design-studio#footer )
+  *  ## [TESTING]( https://github.com/Indrakens/garden-design-studio#testing )
+  *  ## [VALIDATOR TESTING]( https://github.com/Indrakens/garden-design-studio#validator-testings )
+  *  ## [MAJOR CHANGES]( https://github.com/Indrakens/garden-design-studio#major-changes )
+  *  ## [BUGS]( https://github.com/Indrakens/garden-design-studio#bugs )
+  *  ## [DEPLOYMENT]( https://github.com/Indrakens/garden-design-studio#deployment )
+
+
 
 # DESIGN
 ## COLOR SCHEME
