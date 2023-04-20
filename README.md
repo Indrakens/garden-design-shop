@@ -21,7 +21,7 @@ Users will be able to find all the information they need to know about Garden De
  ## Wireframes
  Wireframes were created to plan the layout and design for website.
 
- ![New Wireframe 2](https://user-images.githubusercontent.com/127971416/232599917-0a88acd1-3502-4214-8885-284b4388528d.png)
+ ![D32C8797-CF77-4451-8C88-1254ED1B4AE6](https://user-images.githubusercontent.com/127971416/233416840-e7b4d61f-35b0-41a7-b253-19876969e7b8.jpg)
 
  # Features
  * The website have three main pages- Home, About and Email Us page.
