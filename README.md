@@ -5,6 +5,9 @@ Users will be able to find all the information they need to know about Garden De
 
 ![C2688BAE-BDB0-4A0F-A986-F7877BDF85B0](https://user-images.githubusercontent.com/127971416/233208905-5bb2f0a1-8f8d-4d16-b133-502eb30cef65.jpg)
 
+![LAST COMMIT]( https://placehold.co/155x45/171717/ffffff?text=LAST+COMMIT )![APRIL]( https://placehold.co/125x45/fec900/ffffff?text=APRIL ) ![HTML]( https://placehold.co/125x45/171717/ffffff?text=HTML )![43%]( https://placehold.co/125x45/db2700/ffffff?text=43% ) ![CSS]( https://placehold.co/125x45/171717/ffffff?text=CSS )![44.5%]( https://placehold.co/125x45/074cff/ffffff?text=44.5% ) ![W3C]( https://placehold.co/120x45/171717/ffffff?text=W3C )![44.5%]( https://placehold.co/155x45/c5f015/ffffff?text=VALIDATED )
+
+
 # CONTENTS
   * ## [DESIGN]( https://github.com/Indrakens/garden-design-studio#design )
       * ### [Color Scheme]( https://github.com/Indrakens/garden-design-studio#color-scheme )
