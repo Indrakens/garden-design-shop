@@ -33,7 +33,7 @@ Users will be able to find all the information they need to know about Garden De
 ![Cplor-Palete](https://user-images.githubusercontent.com/127971416/233114563-9fc341fa-3d31-4268-a526-9bb0f01a0357.png)
 
 ## FONTS AND ICONS
-* The website uses Raleway sans-serif font [Google Fonts]( https://fonts.google.com/ )
+* The website uses Raleway sans-serif font from [Google Fonts]( https://fonts.google.com/ )
 * Icons from [Font Awesom]( https://fontawesome.com/ )
 
 ## IMAGES
