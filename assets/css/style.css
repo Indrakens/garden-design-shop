@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     border: 0;
-    
+
 }
 
 body {
@@ -14,10 +14,10 @@ body {
     background-color: #000;
 }
 
-
+/* Navigation menu */
 #nav-logo {
     float: left;
-    font-size: 220%; 
+    font-size: 220%;
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4.5px;
@@ -29,14 +29,13 @@ body {
     color: #fec900;
 }
 
-
-/* navigation menu */
 #link-menu {
     font-size: 100%;
     letter-spacing: 3.5px;
 }
 
-#link-menu, #nav-logo {
+#link-menu,
+#nav-logo {
     line-height: 55px;
 }
 
@@ -45,29 +44,30 @@ body {
     list-style-type: none;
     margin-right: 40px;
     text-transform: uppercase;
-    
+
 }
 
 #link-menu a {
     text-decoration: none;
     color: #f16d00;
-   
+
 }
 
 #link-menu a:hover {
     color: #fec900;
-    
+
 }
+
 #link-menu a.active {
     color: #fec900;
 }
 
-/* home page*/
+/* Home page*/
 #main-outer {
     overflow: hidden;
     background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
     height: 450px;
-    width: 100%; 
+    width: 100%;
 }
 
 #circle-container {
@@ -96,11 +96,11 @@ body {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    width: 650px; 
-    margin-left: auto; 
+    width: 650px;
+    margin-left: auto;
 }
 
-/* main container section */
+/* Home page main container section */
 #main-container {
     width: 100%;
     height: 750px;
@@ -140,6 +140,7 @@ p {
     float: left;
     margin-left: 40px;
 }
+
 #paragraph h3 {
     margin-bottom: 20px;
 }
@@ -156,39 +157,16 @@ p {
     margin-right: 20px;
 }
 
-/* about container */
+/* About page */
 #about-container {
     width: 100%;
-    height: 850px;
+    height: 900px;
 }
-
-/* Slideshow container */
-.slideshow-container {
-    max-width: 1000px;
-    position: relative;
-    margin: auto;
-  }
-
-/* Fading animation */
-  .fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
-  
-  @keyframes fade {
-    from {opacity: .4} 
-    to {opacity: 1}
-  }
-  
-  /* On smaller screens, decrease text size */
-  @media only screen and (max-width: 300px) {
-    .text {font-size: 11px}
-  }
 
 #about-paragraph {
     padding-top: 80px;
     padding-bottom: 20px;
-    width: 60%;
+    width: 90%;
     float: left;
     margin-left: 60px;
     text-align: center;
@@ -197,10 +175,10 @@ p {
 #about-steps {
     float: right;
     margin-right: 100px;
-    width: 55%;  
+    width: 55%;
 }
 
-h4{
+h4 {
     font-family: Raleway, sans-serif;
     font-size: 110%;
     color: #f16d00;
@@ -214,7 +192,38 @@ h4{
     margin-left: 20px;
 }
 
-/* email us*/
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+/* Keyframe for fade*/
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+    .text {
+        font-size: 11px
+    }
+}
+
+/* Email us*/
 h2 {
     font-family: Raleway, sans-serif;
     font-size: 180%;
@@ -250,15 +259,15 @@ h2 {
     margin: 5px 0 20px;
     border: 2px solid #ffda00;
     border-radius: 2px;
-    }
+}
 
 #message {
-    height:100px;
+    height: 100px;
 }
 
 .text-input:hover {
     border-color: #922f04;
-    }
+}
 
 .join-button {
     margin-top: 20px;
@@ -269,12 +278,12 @@ h2 {
     background-color: #922f04;
     color: #ffda00;
     display: block;
-    }
+}
 
 .join-button:hover {
     background-color: #ffda00;
     color: #922f04;
-    }
+}
 
 /* footer */
 .social-media {
@@ -295,7 +304,7 @@ h2 {
 @media screen and (max-width: 1200px) {
     #main-container {
         width: 100%;
-        height: 800px;
+        height: 900px;
         float: left;
         margin: 0 auto;
     }
@@ -304,10 +313,11 @@ h2 {
         overflow: hidden;
         background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
         height: 450px;
-        width: 100%; 
+        width: 100%;
     }
 
-    #logo-img, #logo-text {
+    #logo-img,
+    #logo-text {
         width: 100%;
         float: left;
         height: 15px;
@@ -325,58 +335,59 @@ h2 {
         color: #fec900;
         text-align: center;
     }
-    
+
     p {
         font-size: 100%;
     }
-    
+
     #header {
         padding-top: 40px;
         width: 50%;
         float: left;
         margin-left: 40px;
     }
-    
+
     #header p {
         text-align: center;
         margin-top: 10px;
-       
+
     }
-    
+
     #paragraph {
         padding-top: 60px;
         width: 50%;
         float: left;
         margin-left: 20px;
     }
+
     #paragraph h3 {
         margin-bottom: 10px;
     }
-    
+
     #paragraph p {
         margin-left: 80px;
         margin-top: 5px;
     }
-    
+
     #right-image {
         width: 35%;
         float: right;
         padding-top: 65px;
-        margin-right: 40px;   
+        margin-right: 40px;
     }
 
     #about-container {
         width: 100%;
-        height: 1000px;
+        height: 950px;
     }
-    
+
     #about-paragraph {
         padding-top: 80px;
-        width: 60%;
+        width: 90%;
         float: left;
         margin-left: 60px
     }
-    
+
     #about-steps {
         float: right;
         margin-top: 25px;
@@ -384,21 +395,27 @@ h2 {
         margin-left: 10px;
         width: 40%;
     }
-    
-    h4{
+
+    h4 {
         font-family: Raleway, sans-serif;
         font-size: 100%;
         color: #f16d00;
         margin-top: 10px;
     }
-    
+
     #about-image {
         width: 50%;
         float: left;
         padding-top: 3px;
         margin-left: 40px;
     }
-    
+
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+
     .email-form {
         margin: 70px 10% 0 0;
         color: #fffebd;
@@ -412,11 +429,11 @@ h2 {
     .social-media {
         height: 60px;
     }
-    
+
     .social-media li {
         display: inline;
     }
-    
+
     .social-media i {
         font-size: 140%;
         margin: 1%;
@@ -440,8 +457,9 @@ h2 {
         margin-bottom: 10px;
         line-height: 25px;
     }
-    
-    #logo-img, #logo-text {
+
+    #logo-img,
+    #logo-text {
         width: 100%;
         float: left;
         height: 15px;
@@ -459,79 +477,87 @@ h2 {
         color: #fec900;
         text-align: center;
     }
-    
+
     p {
         font-size: 100%;
     }
-    
+
     #header {
         padding-top: 40px;
         width: 50%;
         float: left;
         margin-left: 40px;
     }
-    
+
     #header p {
         text-align: center;
         margin-top: 10px;
-       
+
     }
-    
+
     #paragraph {
         padding-top: 60px;
         width: 50%;
         float: left;
         margin-left: 20px;
     }
+
     #paragraph h3 {
         margin-bottom: 10px;
     }
-    
+
     #paragraph p {
         margin-left: 80px;
         margin-top: 5px;
     }
-    
+
     #right-image {
         width: 35%;
         float: right;
         padding-top: 65px;
         margin-right: 40px;
-        
+
     }
 
     #about-container {
         width: 100%;
         height: 850px;
     }
+
     #about-paragraph {
         padding-top: 30px;
-        width: 70%;
+        width: 90%;
         float: left;
-         margin-left: 40px
+        margin-left: 40px
     }
-    
+
     #about-steps {
         float: right;
         margin-top: 20px;
         margin-right: 20px;
         width: 50%;
     }
-    
-    h4{
+
+    h4 {
         font-family: Raleway, sans-serif;
         font-size: 100%;
         color: #f16d00;
         margin-top: 5px;
     }
-    
+
     #about-image {
         width: 35%;
         float: left;
         padding-top: 3px;
         margin-left: 20px;
     }
-    
+
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+
     .email-form {
         margin: 60px 10% 0 0;
         color: #fffebd;
@@ -541,15 +567,15 @@ h2 {
         left: 15%;
         padding: 20px;
     }
-    
+
     .social-media {
         height: 60px;
     }
-    
+
     .social-media li {
         display: inline;
     }
-    
+
     .social-media i {
         font-size: 120%;
         margin: 1%;
@@ -565,7 +591,7 @@ h2 {
         float: left;
         margin: 0 auto;
     }
-    
+
     #link-menu {
         clear: left;
         float: left;
@@ -581,12 +607,12 @@ h2 {
         margin-bottom: 2px;
         font-size: 150%;
     }
-    
+
     #main-outer {
         overflow: hidden;
         background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
         height: 300px;
-        width: 100%; 
+        width: 100%;
     }
 
     #circle-container {
@@ -601,7 +627,7 @@ h2 {
     }
 
     #logo-text {
-        display: none;    
+        display: none;
     }
 
     h3 {
@@ -613,80 +639,87 @@ h2 {
         color: #fec900;
         text-align: center;
     }
-    
+
     p {
         font-size: 80%;
     }
-    
+
     #header {
         padding-top: 40px;
         width: 50%;
         float: left;
         margin-left: 40px;
     }
-    
+
     #header p {
         text-align: center;
         margin-top: 10px;
-       
+
     }
-    
+
     #paragraph {
         padding-top: 60px;
         width: 50%;
         float: left;
         margin-left: 20px;
     }
+
     #paragraph h3 {
         margin-bottom: 10px;
     }
-    
+
     #paragraph p {
         margin-left: 40px;
         margin-top: 5px;
     }
-    
+
     #right-image {
         width: 35%;
         float: right;
         padding-top: 65px;
         margin-right: 40px;
-        
+
     }
-    
+
     #about-container {
         width: 100%;
         height: 770px;
     }
-    
+
     #about-paragraph {
         padding-top: 20px;
-        width: 80%;
+        width: 90%;
         float: left;
-         margin-left: 20px
+        margin-left: 20px
     }
-    
+
     #about-steps {
         float: right;
         margin-top: 20px;
         margin-right: 20px;
         width: 50%;
     }
-    
-    h4{
+
+    h4 {
         font-family: Raleway, sans-serif;
         font-size: 85%;
         color: #f16d00;
         margin-top: 5px;
     }
-    
+
     #about-image {
         width: 35%;
         float: left;
         padding-top: 3px;
         margin-left: 20px;
     }
-    
+
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+
     .email-form {
         margin: 60px 5% 0 0;
         color: #fffebd;
@@ -696,16 +729,16 @@ h2 {
         left: 8%;
         padding: 15px;
     }
-    
+
     .social-media {
         height: 60px
     }
-    
+
     .social-media li {
         display: inline;
-        
+
     }
-    
+
     .social-media i {
         font-size: 100%;
         margin: 1%;
@@ -721,7 +754,7 @@ h2 {
         float: left;
         margin: 0 auto;
     }
-    
+
     #link-menu {
         clear: left;
         float: left;
@@ -737,12 +770,12 @@ h2 {
         margin-bottom: 2px;
         font-size: 150%;
     }
-    
+
     #main-outer {
         overflow: hidden;
         background: url('../img/92F2D926-EA76-4AE5-B0DB-E9EC67F87180.png') no-repeat center center;
         height: 300px;
-        width: 100%; 
+        width: 100%;
     }
 
     #circle-container {
@@ -757,7 +790,7 @@ h2 {
     }
 
     #logo-text {
-        display: none;    
+        display: none;
     }
 
     h3 {
@@ -769,72 +802,73 @@ h2 {
         color: #fec900;
         text-align: center;
     }
-    
+
     p {
         font-size: 60%;
     }
-    
+
     #header {
         padding-top: 20px;
         width: 50%;
         float: left;
         margin-left: 20px;
     }
-    
+
     #header p {
         text-align: center;
         margin-top: 10px;
-       
+
     }
-    
+
     #paragraph {
         padding-top: 60px;
         width: 50%;
         float: left;
         margin-left: 10px;
     }
+
     #paragraph h3 {
         margin-bottom: 10px;
     }
-    
+
     #paragraph p {
         margin-left: 20px;
         margin-top: 5px;
     }
-    
+
     #right-image {
         width: 35%;
         float: right;
         padding-top: 35px;
         margin-right: 20px;
-        
+
     }
 
     #about-container {
         width: 100%;
         height: 550px;
     }
-    
+
     #about-paragraph {
         padding-top: 10px;
-        width: 80%;
+        width: 90%;
         float: left;
-         margin-left: 20px
+        margin-left: 20px
     }
-    
+
     #about-steps {
         float: left;
         margin-top: 10px;
         margin-right: 10px;
         width: 55%;
     }
-    
-    h4{
+
+    h4 {
         font-family: Raleway, sans-serif;
         font-size: 60%;
         color: #f16d00;
     }
-    
+
     #about-image {
         width: 35%;
         float: left;
@@ -842,22 +876,28 @@ h2 {
         margin-left: 20px;
     }
 
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+
     .social-media {
         height: 60px;
     }
-    
+
     .social-media li {
         display: inline;
-        
+
     }
-    
+
     .social-media i {
         font-size: 100%;
         margin: 1%;
         padding: 3%;
     }
-    
-    
+
+
 }
 
 /* For screens size from 400px */
@@ -866,30 +906,37 @@ h2 {
         width: 100%;
         height: 980px;
     }
+
     #about-paragraph {
         padding-top: 10px;
-        width: 80%;
+        width: 90%;
         float: left;
-         margin-left: 20px
+        margin-left: 20px
     }
-    
+
     #about-steps {
         float: left;
         margin-top: 10px;
         margin-right: 10px;
         width: 55%;
     }
-    
-    h4{
+
+    h4 {
         font-family: Raleway, sans-serif;
         font-size: 60%;
         color: #f16d00;
     }
-    
+
     #about-image {
         width: 35%;
         float: left;
         padding-top: 3px;
         margin-left: 20px;
+    }
+
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
     }
 }
