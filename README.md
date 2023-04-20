@@ -5,61 +5,72 @@ Users will be able to find all the information they need to know about Garden De
 
 ![C2688BAE-BDB0-4A0F-A986-F7877BDF85B0](https://user-images.githubusercontent.com/127971416/233208905-5bb2f0a1-8f8d-4d16-b133-502eb30cef65.jpg)
 
+# CONTENTS
+ ## [DESIGN]( https://github.com/Indrakens/garden-design-studio#design )
+ * ### [COLOR SCHEME]( https://github.com/Indrakens/garden-design-studio#color-scheme )
+ * ### [FONTS AND ICONS]( https://github.com/Indrakens/garden-design-studio#fonts-and-icons )
+ * ### [IMAGES]( https://github.com/Indrakens/garden-design-studio#images )
+ * ### [WIREFRAME]( https://github.com/Indrakens/garden-design-studio#wireframes )
+ ## [FEATURES]( https://github.com/Indrakens/garden-design-studio#features )
+ * ### [NAVIGATION BAR]( https://github.com/Indrakens/garden-design-studio#features )
+ * ###  [HOME PAGE]( https://github.com/Indrakens/garden-design-studio#home-page )
+ * ### [ABOUT PAGE]( https://github.com/Indrakens/garden-design-studio#about-page )
+ 
 
-# Design
-## Color Scheme
+# DESIGN
+## COLOR SCHEME
 ![Cplor-Palete](https://user-images.githubusercontent.com/127971416/233114563-9fc341fa-3d31-4268-a526-9bb0f01a0357.png)
 
-## Fonts and Icons
+## FONTS AND ICONS
 * The website uses Raleway sans-serif font [Google Fonts]( https://fonts.google.com/ )
 * Icons from [Font Awesom]( https://fontawesome.com/ )
 
-## Images
+## IMAGES
 * The website uses images uploaded from Canva app.
 ![389EDD02-151C-4A4A-BC0B-C041298DD378](https://user-images.githubusercontent.com/127971416/233204945-9fce940e-4cce-4e2d-bfc9-fcf1bf91173e.png)
 
- ## Wireframes
+ ## WIREFRAME
  Wireframes were created to plan the layout and design for website.
 
  ![D32C8797-CF77-4451-8C88-1254ED1B4AE6](https://user-images.githubusercontent.com/127971416/233416840-e7b4d61f-35b0-41a7-b253-19876969e7b8.jpg)
 
- # Features
+ # FEATURES
  * The website have three main pages- Home, About and Email Us page.
- ## Navigation Bar
+ ## NAVIGATION BAR
  Featured on all three pages.
  * GDS logo, Home: links to the home page.
  * About: links to about page.
  * Email Us: links to the email form page.
  
- ## Home Page
+ ## HOME PAGE
  * Includes a circle image and main text inside the hero image.
  * Includes an introduction about the Garden Design Studio and services.
  * Includes slide-show images. 
 
-## About Page
+## ABOUT PAGE
 * Includes consultation description text and steps taken for the project.
 * Includes slide-show images.
 
-## Email Us Page
+## EMAIL FORM PAGE
 * Includes email form where users will be able to email for consultation.
 
-## Footer
+## FOOTER
 * Includes the social media sites for Garden Design Studio. 
 
-# Testing
+# TESTING
 * The website works in different browsers: Chrome, Firefox, Safari and is responsive.
 
-# Validator Testing
+# VALIDATOR TESTINGS
 * HTML Home Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * HTML About Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * HTML Email Us Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * CSS [Jigsaw validator]( https://jigsaw.w3.org/css-validator/validator )
 * add lighthouse!!!
 
-## Major Changes
+# MAJOR CHANGES
 For the begining I was using differnt color scheem for website. There was included different style images. I changed the color scheem and images becouse it looked plain. I added slideshow images to home page and about page.
 
-## Bugs
+# BUGS
 I had a issue with circle image in home page, when I was resizing the screen the circle image appeared just half. The issues I had was with no closing divs or added to many, whitch couse the issue with circle image. 
 * Before: 
 
@@ -71,7 +82,7 @@ I had a issue with circle image in home page, when I was resizing the screen the
 
 
 
-# Deployment
+# DEPLOYMENT
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 * In the GitHub repository, navigate to the Settings tab
 * From the source section drop-down menu, select the Master Branch
