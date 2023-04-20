@@ -50,7 +50,7 @@ Users will be able to find all the information they need to know about Garden De
 * The website works in different browsers: Chrome, Firefox, Safari and is responsive.
 
 # Validator Testing
-* HTML Home Page [W3C validator]( https://validator.w3.org/nu/#textarea )
+* HTML Home Page [W3C validator]( http://validator.w3.org/services )
 * HTML About Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * HTML Email Us Page [W3C validator]( https://validator.w3.org/nu/#textarea )
 * CSS [Jigsaw validator]( https://jigsaw.w3.org/css-validator/validator )
