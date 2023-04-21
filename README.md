@@ -79,11 +79,20 @@ Users will be able to find all the information they need to know about Garden De
 * The website works in different browsers: Chrome, Firefox, Safari and is responsive.
 
 # VALIDATOR TESTINGS
-* HTML Home Page [W3C validator]( https://validator.w3.org/nu/#textarea )
-* HTML About Page [W3C validator]( https://validator.w3.org/nu/#textarea )
-* HTML Email Us Page [W3C validator]( https://validator.w3.org/nu/#textarea )
-* CSS [Jigsaw validator]( https://jigsaw.w3.org/css-validator/validator )
-* add lighthouse!!!
+* HTML Home Page W3C validator:
+![F08EDC43-EAB9-427D-A0D9-506ECAF77B52](https://user-images.githubusercontent.com/127971416/233507064-4e6b0fc7-aa7f-4eff-b7f9-7c4e6b900e64.jpg)
+
+* HTML About Page W3C validator:
+![AD4377C8-CA4E-4F1B-B6E6-F9F5F438D13A](https://user-images.githubusercontent.com/127971416/233507845-0601eb23-fdad-4c5f-8686-051179c2678e.jpeg)
+
+* HTML Email Us Page W3C validator:
+![12F0F976-E2D9-4FA2-A2A3-587CE453253E](https://user-images.githubusercontent.com/127971416/233507980-47ce8b99-a664-49a3-ab46-6eacccf2b915.jpg)
+
+* CSS Jigsaw validator:
+![BCB3F938-E7F1-4F22-A666-BEADCD9DD3D1](https://user-images.githubusercontent.com/127971416/233508158-f0c4ad9e-3008-4970-999d-c87cc85135a4.jpg)
+
+* Lighthouse validator:
+![2E37B023-6137-441C-B704-E4D407D8FD36](https://user-images.githubusercontent.com/127971416/233509696-6ccd112f-5014-4cf5-b52a-fdf761de095b.png)
 
 # MAJOR CHANGES
 For the begining I was using differnt color scheem for website. There was included different style images. I changed the color scheem and images becouse it looked plain. I added slideshow images to home page and about page.
@@ -98,7 +107,9 @@ I had a issue with circle image in home page, when I was resizing the screen the
 
 ![6C2C44FB-5501-4D89-84A6-7197154EB22E](https://user-images.githubusercontent.com/127971416/233215947-67220c08-ab16-43f2-8c10-5544da0c231a.jpg)
 
-
+# Credits
+* The code to make social media links and email form was taken and modified from CI [Love Running]( https://indrakens.github.io/love-running/index.html ) project.
+* The code to make slideshow in Home page and About page was taken and modified from [W3schools]( https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto ) website.
 
 # DEPLOYMENT
 The site was deployed to GitHub pages. The steps to deploy are as follows:
