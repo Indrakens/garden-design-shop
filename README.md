@@ -4,7 +4,7 @@ The Garden Design Studio is a website for clients looking for professional garde
 Users will be able to find all the information they need to know about Garden Design Studio, garden design services, garden design process- what's involved, and email form, where they will be able to email for consultation appointment.
 ![C2688BAE-BDB0-4A0F-A986-F7877BDF85B0](https://user-images.githubusercontent.com/127971416/233208905-5bb2f0a1-8f8d-4d16-b133-502eb30cef65.jpg)
 
-![LAST COMMIT]( https://placehold.co/125x35/3a3b3d/ffffff?text=LAST+COMMIT )![APRIL]( https://placehold.co/100x35/fec900/ffffff?text=APRIL ) ![HTML]( https://placehold.co/80x35/3a3b3d/ffffff?text=HTML )![43%]( https://placehold.co/80x35/db2700/ffffff?text=43% ) ![CSS]( https://placehold.co/80x35/3a3b3d/ffffff?text=CSS )![44.5%]( https://placehold.co/80x35/074cff/ffffff?text=44.5% ) ![W3C]( https://placehold.co/80x35/3a3b3d/ffffff?text=W3C )![44.5%]( https://placehold.co/105x35/69c404/ffffff?text=VALIDATED )
+![LAST COMMIT]( https://placehold.co/125x35/3a3b3d/ffffff?text=LAST+COMMIT )![APRIL]( https://placehold.co/100x35/fec900/ffffff?text=APRIL ) ![HTML]( https://placehold.co/80x35/3a3b3d/ffffff?text=HTML )![43%]( https://placehold.co/80x35/db2700/ffffff?text=46.2% ) ![CSS]( https://placehold.co/80x35/3a3b3d/ffffff?text=CSS )![44.5%]( https://placehold.co/80x35/074cff/ffffff?text=42.2% ) ![W3C]( https://placehold.co/80x35/3a3b3d/ffffff?text=W3C )![44.5%]( https://placehold.co/105x35/69c404/ffffff?text=VALIDATED )
 
 
 # CONTENTS
