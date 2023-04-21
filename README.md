@@ -65,8 +65,7 @@ Users will be able to find all the information they need to know about Garden De
 ## ABOUT PAGE
 * Includes consultation description text and steps taken for the project.
 * Includes slide-show images.
-![47DE077A-9294-46D3-B842-8940B57617C4](https://user-images.githubusercontent.com/127971416/233459526-fda0dedb-df05-49e1-8a99-b4bf7c558931.jpeg)
-
+![E3C2AD6C-A4D5-4077-A9C4-F29AC2662C72](https://user-images.githubusercontent.com/127971416/233609168-a6758651-7db3-42fe-9ce8-eebddf44894f.jpg)
 ## EMAIL FORM PAGE
 * Includes email form where users will be able to email for a consultation.
 ![C44467E2-8436-448D-BEEF-914B8B24CAD5](https://user-images.githubusercontent.com/127971416/233459728-68cc80cb-0ffd-453e-bed4-31c2679ef018.jpg)
