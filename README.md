@@ -51,7 +51,7 @@ Users will be able to find all the information they need to know about Garden De
  Featured on all three pages.
  ![1CFA67D8-03E4-4D32-B09A-9EC9A9EBA4CA](https://user-images.githubusercontent.com/127971416/233458560-f6ae838d-d58c-4bfa-9b9d-4066d210d975.jpg)
  * GDS logo, Home: links to the home page.
- * About: links to about the page.
+ * About: links to the about page.
  * Email Us: links to the email form page.
  
  ## HOME PAGE
