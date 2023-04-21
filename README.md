@@ -24,6 +24,7 @@ Users will be able to find all the information they need to know about Garden De
   *  ### [VALIDATOR TESTING]( https://github.com/Indrakens/garden-design-studio#validator-testings )
   *  ### [MAJOR CHANGES]( https://github.com/Indrakens/garden-design-studio#major-changes )
   *  ### [BUGS]( https://github.com/Indrakens/garden-design-studio#bugs )
+  *  ### [CREDITS]( )
   *  ### [DEPLOYMENT]( https://github.com/Indrakens/garden-design-studio#deployment )
 
 
@@ -107,7 +108,7 @@ I had a issue with circle image in home page, when I was resizing the screen the
 
 ![6C2C44FB-5501-4D89-84A6-7197154EB22E](https://user-images.githubusercontent.com/127971416/233215947-67220c08-ab16-43f2-8c10-5544da0c231a.jpg)
 
-# Credits
+# CREDITS
 * The code to make social media links and email form was taken and modified from CI [Love Running]( https://indrakens.github.io/love-running/index.html ) project.
 * The code to make slideshow in Home page and About page was taken and modified from [W3schools]( https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto ) website.
 
